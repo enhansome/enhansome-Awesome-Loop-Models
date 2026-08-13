@@ -6,7 +6,7 @@
       "title": "🌐 Interactive Browser · 🧾 PR Submission Guide"
     },
     {
-      "description": "This repository uses a strict definition:\nThis repo therefore includes papers that focus on loop models themselves, their mechanisms, applications, and designs. It excludes papers that are primarily about broader-scale iteration patterns that do not directly connect to loop models as defined above, such as agent loops, repeated full-model calls, external solver rounds, energy-based models, or plain sequence-time recurrence.",
+      "description": "The main catalog uses a strict definition:\nThe main catalog therefore includes papers that focus on loop models themselves, their mechanisms, applications, and designs. It excludes papers that are primarily about broader-scale iteration patterns that do not directly connect to loop models as defined above, such as agent loops, repeated full-model calls, external solver rounds, energy-based models, or plain sequence-time recurrence.\nRare curator-approved exceptions use . They remain for conceptual value, are visibly labeled Adjacent work, carry no strict Loop Mechanism tag, and include primary-source evidence for the boundary. Omitting means strict scope.",
       "items": [],
       "title": "What Counts as a Loop Model?"
     },
@@ -22,9 +22,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:08:51.891Z",
+    "last_updated": "2026-08-13T23:10:03.852Z",
     "original_repository": "huskydoge/Awesome-Loop-Models",
-    "original_repository_sha": "86fdd49adb2e4121b32d182370016a47a757fcd3",
+    "original_repository_sha": "360d136483d26c0a7998f363484429bf8c1c1bcf",
     "enhanced_repository": "enhansome/enhansome-Awesome-Loop-Models",
     "enhanced_repository_description": null,
     "title": "Awesome Loop Models with stars"
