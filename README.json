@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "description": "Search, filter, and explore loop-model papers and selected technical blogs with links to arXiv, code, OpenReview, and more.\nUse the PR Submission Guide to generate YAML for papers or blogs, then copy the path and YAML into your fork / branch for the final pull request step.\nA curated list of papers and selected long-form technical blogs on Loop Models — architectures where, within a single forward process, a shared learned internal layer, block, module, or operator is reused.\nLocal preview: run from the repo root and open ; direct opens cannot load .",
+      "items": [],
+      "title": "🌐 Interactive Browser · 🧾 PR Submission Guide"
+    },
+    {
+      "description": "This repository uses a strict definition:\nThis repo therefore includes papers that focus on loop models themselves, their mechanisms, applications, and designs. It excludes papers that are primarily about broader-scale iteration patterns that do not directly connect to loop models as defined above, such as agent loops, repeated full-model calls, external solver rounds, energy-based models, or plain sequence-time recurrence.",
+      "items": [],
+      "title": "What Counts as a Loop Model?"
+    },
+    {
+      "description": "If you find this repository useful, please consider citing this list:",
+      "items": [],
+      "title": "Citation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Star History"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:08:51.891Z",
+    "original_repository": "huskydoge/Awesome-Loop-Models",
+    "original_repository_sha": "86fdd49adb2e4121b32d182370016a47a757fcd3",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Loop-Models",
+    "enhanced_repository_description": null,
+    "title": "Awesome Loop Models with stars"
+  }
+}
