@@ -1,29 +1,9 @@
 {
-  "items": [
-    {
-      "description": "Search, filter, and explore loop-model papers and selected technical blogs with links to arXiv, code, OpenReview, and more.\nUse the PR Submission Guide to generate YAML for papers or blogs, then copy the path and YAML into your fork / branch for the final pull request step.\nA curated list of papers and selected long-form technical blogs on Loop Models — architectures where, within a single forward process, a shared learned internal layer, block, module, or operator is reused.\nLocal preview: run from the repo root and open ; direct opens cannot load .",
-      "items": [],
-      "title": "🌐 Interactive Browser · 🧾 PR Submission Guide"
-    },
-    {
-      "description": "The main catalog uses a strict definition:\nThe main catalog therefore includes papers that focus on loop models themselves, their mechanisms, applications, and designs. It excludes papers that are primarily about broader-scale iteration patterns that do not directly connect to loop models as defined above, such as agent loops, repeated full-model calls, external solver rounds, energy-based models, or plain sequence-time recurrence.\nRare curator-approved exceptions use . They remain for conceptual value, are visibly labeled Adjacent work, carry no strict Loop Mechanism tag, and include primary-source evidence for the boundary. Omitting means strict scope.",
-      "items": [],
-      "title": "What Counts as a Loop Model?"
-    },
-    {
-      "description": "If you find this repository useful, please consider citing this list:",
-      "items": [],
-      "title": "Citation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Star History"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T22:46:55.777Z",
+    "last_updated": "2026-08-19T12:11:47.366Z",
     "original_repository": "huskydoge/Awesome-Loop-Models",
+    "original_repository_id": 1219975226,
     "original_repository_sha": "364f7c3f951620768a78e3ee715bf1eb856c405e",
     "enhanced_repository": "enhansome/enhansome-Awesome-Loop-Models",
     "enhanced_repository_description": null,
