@@ -1,9 +1,16 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-27T03:24:26.167Z",
-    "original_repository": "huskydoge/Awesome-Loop-Models",
-    "original_repository_id": 1219975226,
+    "last_updated": "2026-08-27T11:26:36.586Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1219975226,
+      "language": "Python",
+      "last_commit": "2026-08-27T00:35:25Z",
+      "owner": "huskydoge",
+      "repo": "Awesome-Loop-Models",
+      "stars": 272
+    },
     "original_repository_sha": "332220a03ac06f25f265b828ac72491d01cdf34c",
     "enhanced_repository": "enhansome/enhansome-Awesome-Loop-Models",
     "enhanced_repository_description": null,
