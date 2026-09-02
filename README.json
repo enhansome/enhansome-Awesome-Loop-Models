@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-09-01T01:19:59.911Z",
+    "last_updated": "2026-09-02T00:21:30.674Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and selected technical blogs on Loop Models.",
@@ -13,7 +13,7 @@
       "open_issues": 2,
       "owner": "huskydoge",
       "repo": "Awesome-Loop-Models",
-      "stars": 275,
+      "stars": 277,
       "topics": [
         "attractors",
         "awesome-list",
