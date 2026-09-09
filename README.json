@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-09-08T00:33:53.592Z",
+    "last_updated": "2026-09-09T00:23:22.122Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and selected technical blogs on Loop Models.",
@@ -9,11 +9,11 @@
       "id": 1219975226,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-09-07T10:28:08Z",
+      "last_commit": "2026-09-08T09:49:07Z",
       "open_issues": 0,
       "owner": "huskydoge",
       "repo": "Awesome-Loop-Models",
-      "stars": 346,
+      "stars": 351,
       "topics": [
         "attractors",
         "awesome-list",
@@ -25,7 +25,7 @@
         "research-tool"
       ]
     },
-    "original_repository_sha": "2768cc3e5be98973b992cfdd5fafaf165a6cba16",
+    "original_repository_sha": "05844a73094d1e8db4e164e67a6c4689dd5c20be",
     "enhanced_repository": "enhansome/enhansome-Awesome-Loop-Models",
     "enhanced_repository_description": null,
     "title": "Awesome Loop Models with stars"
