@@ -1,7 +1,296 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "The foundational papers, plus the ones the maintainer marks as must-read.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Deep Equilibrium Models",
+          "description": "NeurIPS 2019 implicit-layer arXiv · Code ★808",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[NeurIPS'19] Deep Equilibrium Models",
+            "homepage": null,
+            "id": 200909224,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2022-07-04T02:25:25Z",
+            "open_issues": 9,
+            "owner": "locuslab",
+            "repo": "deq",
+            "stars": 808,
+            "topics": []
+          },
+          "first_seen": "2026-09-30T01:21:53.537Z"
+        },
+        {
+          "node_type": "item",
+          "title": "🌟 Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach",
+          "description": "NeurIPS 2025 flat-loop arXiv · Code ★972 · HF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Pretraining and inference code for a large-scale depth-recurrent language model",
+            "homepage": "https://huggingface.co/tomg-group-umd/huginn-0125",
+            "id": 929050264,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2025-12-29T10:31:27Z",
+            "open_issues": 2,
+            "owner": "seal-rg",
+            "repo": "recurrent-pretraining",
+            "stars": 972,
+            "topics": [
+              "llms",
+              "pretraining",
+              "reasoning",
+              "recurrent-depth"
+            ]
+          },
+          "first_seen": "2026-09-30T01:21:53.537Z"
+        }
+      ],
+      "title": "🌟 Start here"
+    },
+    {
+      "description": "A daily watch adds new arXiv papers. The browser has every paper and each day's briefing.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "arXiv · Code ★1",
+          "description": "How to Loop MoE: Flatten the Experts, Untie the Attention Design",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1391753920,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-29T05:07:10Z",
+            "open_issues": 0,
+            "owner": "SR-A-W",
+            "repo": "how-to-loop-moe",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-09-30T01:21:53.537Z"
+        },
+        {
+          "node_type": "item",
+          "title": "arXiv · Code ★91",
+          "description": "Improving Test-Time Scaling with Adaptive Looped Transformers Design",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[ICML'26] Official implementation of paper \"Think-at-Hard: Selective Latent Iterations to Improve Reasoning Language Models\"",
+            "homepage": null,
+            "id": 1077430876,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-29T05:12:07Z",
+            "open_issues": 2,
+            "owner": "thu-nics",
+            "repo": "TaH",
+            "stars": 91,
+            "topics": []
+          },
+          "first_seen": "2026-09-30T01:21:53.537Z"
+        }
+      ],
+      "title": "🆕 Latest additions"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
+          "description": "ICLR 2020 7,726 arXiv · Code ★3,278",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
+            "homepage": null,
+            "id": 224296809,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2023-04-14T18:02:55Z",
+            "open_issues": 102,
+            "owner": "google-research",
+            "repo": "albert",
+            "stars": 3278,
+            "topics": []
+          },
+          "first_seen": "2026-09-30T01:21:53.537Z"
+        },
+        {
+          "node_type": "item",
+          "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
+          "description": "ECCV 2020 4,228 arXiv · Code ★4,103",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 250429436,
+            "language": "Python",
+            "license": "BSD-3-Clause",
+            "last_commit": "2025-08-24T23:34:28Z",
+            "open_issues": 77,
+            "owner": "princeton-vl",
+            "repo": "RAFT",
+            "stars": 4103,
+            "topics": []
+          },
+          "first_seen": "2026-09-30T01:21:53.537Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Equilibrium Models",
+          "description": "NeurIPS 2019 1,012 arXiv · Code ★808",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[NeurIPS'19] Deep Equilibrium Models",
+            "homepage": null,
+            "id": 200909224,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2022-07-04T02:25:25Z",
+            "open_issues": 9,
+            "owner": "locuslab",
+            "repo": "deq",
+            "stars": 808,
+            "topics": []
+          },
+          "first_seen": "2026-09-30T01:21:53.537Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Neural GPUs Learn Algorithms",
+          "description": "ICLR 2016 408 arXiv · Code ★144",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "Code for the Neural GPU model originally described in \"Neural GPUs Learn Algorithms\"",
+            "homepage": "http://arxiv.org/abs/1511.08228",
+            "id": 62681934,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2018-11-22T00:38:44Z",
+            "open_issues": 2,
+            "owner": "openai",
+            "repo": "neural-gpu",
+            "stars": 144,
+            "topics": [
+              "paper"
+            ]
+          },
+          "first_seen": "2026-09-30T01:21:53.537Z"
+        },
+        {
+          "node_type": "item",
+          "title": "🌟 Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach",
+          "description": "NeurIPS 2025 389 arXiv · Code ★972 · HF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Pretraining and inference code for a large-scale depth-recurrent language model",
+            "homepage": "https://huggingface.co/tomg-group-umd/huginn-0125",
+            "id": 929050264,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2025-12-29T10:31:27Z",
+            "open_issues": 2,
+            "owner": "seal-rg",
+            "repo": "recurrent-pretraining",
+            "stars": 972,
+            "topics": [
+              "llms",
+              "pretraining",
+              "reasoning",
+              "recurrent-depth"
+            ]
+          },
+          "first_seen": "2026-09-30T01:21:53.537Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Multiscale Deep Equilibrium Models",
+          "description": "NeurIPS 2020 269 arXiv · Code ★237",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[NeurIPS'20] Multiscale Deep Equilibrium Models",
+            "homepage": null,
+            "id": 271376081,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2021-06-29T07:35:05Z",
+            "open_issues": 0,
+            "owner": "locuslab",
+            "repo": "mdeq",
+            "stars": 237,
+            "topics": []
+          },
+          "first_seen": "2026-09-30T01:21:53.537Z"
+        }
+      ],
+      "title": "🔥 Most cited"
+    },
+    {
+      "description": "Long-form technical posts on loop models.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Read · Code",
+          "description": "Exact Input Writes Improve Stable Looped Language Models Personal Blog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Exact-ZOH full-matrix control fork of Parcae",
+            "homepage": null,
+            "id": 1227774386,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-05-03T09:56:34Z",
+            "open_issues": 0,
+            "owner": "huskydoge",
+            "repo": "parcae-zoh-exact",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-30T01:21:53.537Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Read · Code",
+          "description": "Looped-GPT: Looping During Pre-training improves Generalization Personal Blog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Minimal and highly hackable implementation of Looped Transformers with GPT",
+            "homepage": null,
+            "id": 1134381173,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-03-08T00:52:29Z",
+            "open_issues": 0,
+            "owner": "sanyalsunny111",
+            "repo": "Looped-GPT",
+            "stars": 25,
+            "topics": []
+          },
+          "first_seen": "2026-09-30T01:21:53.537Z"
+        }
+      ],
+      "title": "✍️ Blogs"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-09-29T02:06:34.118Z",
+    "last_updated": "2026-09-30T01:21:53.537Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and selected technical blogs on Loop Models.",
@@ -9,11 +298,11 @@
       "id": 1219975226,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-09-28T18:16:33Z",
-      "open_issues": 1,
+      "last_commit": "2026-09-29T22:43:18Z",
+      "open_issues": 0,
       "owner": "huskydoge",
       "repo": "Awesome-Loop-Models",
-      "stars": 424,
+      "stars": 427,
       "topics": [
         "attractors",
         "awesome-list",
@@ -25,7 +314,7 @@
         "research-tool"
       ]
     },
-    "original_repository_sha": "c6d3272a10a5bf86b1031109f168b2c6367363ea",
+    "original_repository_sha": "823dcff51511d316d679c390e0deb3a76ffcb2e7",
     "enhanced_repository": "enhansome/enhansome-Awesome-Loop-Models",
     "enhanced_repository_description": null,
     "title": "Awesome Loop Models with stars"
