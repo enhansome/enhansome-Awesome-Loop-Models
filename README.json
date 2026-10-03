@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "🌟 Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach",
-          "description": "NeurIPS 2025 flat-loop arXiv · Code ★974 · HF",
+          "description": "NeurIPS 2025 flat-loop arXiv · Code ★975 · HF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -79,7 +79,7 @@
         },
         {
           "node_type": "item",
-          "title": "arXiv · Code ★91",
+          "title": "arXiv · Code ★92",
           "description": "Improving Test-Time Scaling with Adaptive Looped Transformers Design",
           "children": [],
           "repo_info": {
@@ -107,7 +107,7 @@
         {
           "node_type": "item",
           "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
-          "description": "ICLR 2020 7,734 arXiv · Code ★3,278",
+          "description": "ICLR 2020 7,740 arXiv · Code ★3,278",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -128,7 +128,7 @@
         {
           "node_type": "item",
           "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
-          "description": "ECCV 2020 4,239 arXiv · Code ★4,103",
+          "description": "ECCV 2020 4,251 arXiv · Code ★4,104",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -149,7 +149,7 @@
         {
           "node_type": "item",
           "title": "Deep Equilibrium Models",
-          "description": "NeurIPS 2019 1,015 arXiv · Code ★808",
+          "description": "NeurIPS 2019 1,018 arXiv · Code ★808",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -169,31 +169,8 @@
         },
         {
           "node_type": "item",
-          "title": "Neural GPUs Learn Algorithms",
-          "description": "ICLR 2016 409 arXiv · Code ★144",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Code for the Neural GPU model originally described in \"Neural GPUs Learn Algorithms\"",
-            "homepage": "http://arxiv.org/abs/1511.08228",
-            "id": 62681934,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2018-11-22T00:38:44Z",
-            "open_issues": 2,
-            "owner": "openai",
-            "repo": "neural-gpu",
-            "stars": 144,
-            "topics": [
-              "paper"
-            ]
-          },
-          "first_seen": "2026-09-30T01:21:53.537Z"
-        },
-        {
-          "node_type": "item",
           "title": "🌟 Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach",
-          "description": "NeurIPS 2025 402 arXiv · Code ★974 · HF",
+          "description": "NeurIPS 2025 411 arXiv · Code ★975 · HF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -218,8 +195,31 @@
         },
         {
           "node_type": "item",
+          "title": "Neural GPUs Learn Algorithms",
+          "description": "ICLR 2016 410 arXiv · Code ★144",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "Code for the Neural GPU model originally described in \"Neural GPUs Learn Algorithms\"",
+            "homepage": "http://arxiv.org/abs/1511.08228",
+            "id": 62681934,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2018-11-22T00:38:44Z",
+            "open_issues": 2,
+            "owner": "openai",
+            "repo": "neural-gpu",
+            "stars": 144,
+            "topics": [
+              "paper"
+            ]
+          },
+          "first_seen": "2026-09-30T01:21:53.537Z"
+        },
+        {
+          "node_type": "item",
           "title": "Multiscale Deep Equilibrium Models",
-          "description": "NeurIPS 2020 269 arXiv · Code ★237",
+          "description": "NeurIPS 2020 271 arXiv · Code ★237",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -290,7 +290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T01:44:12.136Z",
+    "last_updated": "2026-10-03T01:15:32.311Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and selected technical blogs on Loop Models.",
@@ -298,11 +298,11 @@
       "id": 1219975226,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-10-01T11:46:36Z",
+      "last_commit": "2026-10-02T11:16:13Z",
       "open_issues": 2,
       "owner": "huskydoge",
       "repo": "Awesome-Loop-Models",
-      "stars": 430,
+      "stars": 432,
       "topics": [
         "attractors",
         "awesome-list",
@@ -314,7 +314,7 @@
         "research-tool"
       ]
     },
-    "original_repository_sha": "a5c2f5c49dd5ef800dc582659817341a6a9b828a",
+    "original_repository_sha": "6c85585aa9197870abc72bfc4583d05b56c2524a",
     "enhanced_repository": "enhansome/enhansome-Awesome-Loop-Models",
     "enhanced_repository_description": null,
     "title": "Awesome Loop Models with stars"
