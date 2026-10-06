@@ -58,45 +58,66 @@
       "items": [
         {
           "node_type": "item",
-          "title": "arXiv · Code ★2",
-          "description": "How to Loop MoE: Flatten the Experts, Untie the Attention Design",
+          "title": "Paper · Code ★28",
+          "description": "Towards Looped Models Done Right Part II: Rethinking at Fixed Points Design",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "Official code for Towards Looped Models Done Right based on xLLM",
             "homepage": null,
-            "id": 1391753920,
+            "id": 1392830255,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T16:22:02Z",
+            "last_commit": "2026-10-05T02:29:07Z",
             "open_issues": 0,
-            "owner": "SR-A-W",
-            "repo": "how-to-loop-moe",
-            "stars": 2,
+            "owner": "ifm-ai",
+            "repo": "xllm-loop",
+            "stars": 29,
             "topics": []
           },
-          "first_seen": "2026-09-30T01:21:53.537Z"
+          "first_seen": "2026-10-06T02:21:50.055Z"
         },
         {
           "node_type": "item",
-          "title": "arXiv · Code ★93",
-          "description": "Improving Test-Time Scaling with Adaptive Looped Transformers Design",
+          "title": "arXiv · Code ★6",
+          "description": "Looping Beyond Twice: A Scalable Recipe for Looped Mixture-of-Experts Design",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "[ICML'26] Official implementation of paper \"Think-at-Hard: Selective Latent Iterations to Improve Reasoning Language Models\"",
-            "homepage": null,
-            "id": 1077430876,
-            "language": "Python",
+            "description": "Looping Beyond Twice: A Scalable Recipe for Looped Mixture-of-Experts (arXiv:2610.01153)",
+            "homepage": "https://arxiv.org/abs/2610.01153",
+            "id": 1405212556,
+            "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T05:12:07Z",
-            "open_issues": 2,
-            "owner": "thu-nics",
-            "repo": "TaH",
-            "stars": 93,
+            "last_commit": "2026-10-05T05:21:21Z",
+            "open_issues": 0,
+            "owner": "hed-ucas",
+            "repo": "LOOM",
+            "stars": 7,
             "topics": []
           },
-          "first_seen": "2026-09-30T01:21:53.537Z"
+          "first_seen": "2026-10-06T02:21:50.055Z"
+        },
+        {
+          "node_type": "item",
+          "title": "arXiv · Code ★36",
+          "description": "Looped Diffusion Transformer Application",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "PyTorch implementation of Looped Diffusion Transformer",
+            "homepage": null,
+            "id": 1394457398,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-05T14:50:30Z",
+            "open_issues": 1,
+            "owner": "OpenSenseNova",
+            "repo": "Looped-DiT",
+            "stars": 37,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T02:21:50.055Z"
         }
       ],
       "title": "🆕 Latest additions"
@@ -107,7 +128,7 @@
         {
           "node_type": "item",
           "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
-          "description": "ICLR 2020 7,745 arXiv · Code ★3,278",
+          "description": "ICLR 2020 7,748 arXiv · Code ★3,278",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -128,7 +149,7 @@
         {
           "node_type": "item",
           "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
-          "description": "ECCV 2020 4,253 arXiv · Code ★4,104",
+          "description": "ECCV 2020 4,259 arXiv · Code ★4,104",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -141,7 +162,7 @@
             "open_issues": 77,
             "owner": "princeton-vl",
             "repo": "RAFT",
-            "stars": 4104,
+            "stars": 4105,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -149,7 +170,7 @@
         {
           "node_type": "item",
           "title": "Deep Equilibrium Models",
-          "description": "NeurIPS 2019 1,019 arXiv · Code ★808",
+          "description": "NeurIPS 2019 1,020 arXiv · Code ★808",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -170,7 +191,7 @@
         {
           "node_type": "item",
           "title": "🌟 Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach",
-          "description": "NeurIPS 2025 416 arXiv · Code ★976 · HF",
+          "description": "NeurIPS 2025 420 arXiv · Code ★976 · HF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -290,7 +311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T01:03:51.972Z",
+    "last_updated": "2026-10-06T02:21:50.055Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and selected technical blogs on Loop Models.",
@@ -298,11 +319,11 @@
       "id": 1219975226,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-10-04T11:15:43Z",
-      "open_issues": 2,
+      "last_commit": "2026-10-05T17:37:10Z",
+      "open_issues": 0,
       "owner": "huskydoge",
       "repo": "Awesome-Loop-Models",
-      "stars": 432,
+      "stars": 433,
       "topics": [
         "attractors",
         "awesome-list",
@@ -314,7 +335,7 @@
         "research-tool"
       ]
     },
-    "original_repository_sha": "6eecce523bc82bf734e1e3fb00e4930649996d37",
+    "original_repository_sha": "451e688499ee547e2da995d1508705047f5ef45e",
     "enhanced_repository": "enhansome/enhansome-Awesome-Loop-Models",
     "enhanced_repository_description": null,
     "title": "Awesome Loop Models with stars"
