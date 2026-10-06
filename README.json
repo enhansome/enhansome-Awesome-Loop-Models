@@ -58,7 +58,28 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Paper · Code ★28",
+          "title": "arXiv · Code ★1",
+          "description": "ALoDLM: Adaptively Looped Diffusion Language Models Design",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Research code and optimized inference for ALoDLM: Adaptively Looped Diffusion Language Models.",
+            "homepage": null,
+            "id": 1402442823,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-06T01:02:03Z",
+            "open_issues": 3,
+            "owner": "amazon-science",
+            "repo": "ALoDLM",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:36:03.788Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Paper · Code ★29",
           "description": "Towards Looped Models Done Right Part II: Rethinking at Fixed Points Design",
           "children": [],
           "repo_info": {
@@ -68,18 +89,18 @@
             "id": 1392830255,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T02:29:07Z",
+            "last_commit": "2026-10-06T04:07:08Z",
             "open_issues": 0,
             "owner": "ifm-ai",
             "repo": "xllm-loop",
-            "stars": 29,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-10-06T02:21:50.055Z"
         },
         {
           "node_type": "item",
-          "title": "arXiv · Code ★6",
+          "title": "arXiv · Code ★7",
           "description": "Looping Beyond Twice: A Scalable Recipe for Looped Mixture-of-Experts Design",
           "children": [],
           "repo_info": {
@@ -94,27 +115,6 @@
             "owner": "hed-ucas",
             "repo": "LOOM",
             "stars": 7,
-            "topics": []
-          },
-          "first_seen": "2026-10-06T02:21:50.055Z"
-        },
-        {
-          "node_type": "item",
-          "title": "arXiv · Code ★36",
-          "description": "Looped Diffusion Transformer Application",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "PyTorch implementation of Looped Diffusion Transformer",
-            "homepage": null,
-            "id": 1394457398,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-05T14:50:30Z",
-            "open_issues": 1,
-            "owner": "OpenSenseNova",
-            "repo": "Looped-DiT",
-            "stars": 37,
             "topics": []
           },
           "first_seen": "2026-10-06T02:21:50.055Z"
@@ -149,7 +149,7 @@
         {
           "node_type": "item",
           "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
-          "description": "ECCV 2020 4,259 arXiv · Code ★4,104",
+          "description": "ECCV 2020 4,259 arXiv · Code ★4,105",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -162,7 +162,7 @@
             "open_issues": 77,
             "owner": "princeton-vl",
             "repo": "RAFT",
-            "stars": 4105,
+            "stars": 4106,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -311,7 +311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T02:21:50.055Z",
+    "last_updated": "2026-10-06T10:36:03.788Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and selected technical blogs on Loop Models.",
@@ -319,11 +319,11 @@
       "id": 1219975226,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-10-05T17:37:10Z",
+      "last_commit": "2026-10-06T03:09:53Z",
       "open_issues": 0,
       "owner": "huskydoge",
       "repo": "Awesome-Loop-Models",
-      "stars": 433,
+      "stars": 434,
       "topics": [
         "attractors",
         "awesome-list",
@@ -335,7 +335,7 @@
         "research-tool"
       ]
     },
-    "original_repository_sha": "451e688499ee547e2da995d1508705047f5ef45e",
+    "original_repository_sha": "dd54146a7602757e30fbf1c5ccf2f5903d58f73b",
     "enhanced_repository": "enhansome/enhansome-Awesome-Loop-Models",
     "enhanced_repository_description": null,
     "title": "Awesome Loop Models with stars"
