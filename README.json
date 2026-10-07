@@ -37,7 +37,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2025-12-29T10:31:27Z",
-            "open_issues": 2,
+            "open_issues": 1,
             "owner": "seal-rg",
             "repo": "recurrent-pretraining",
             "stars": 976,
@@ -58,7 +58,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "arXiv · Code ★1",
+          "title": "arXiv · Code ★3",
           "description": "ALoDLM: Adaptively Looped Diffusion Language Models Design",
           "children": [],
           "repo_info": {
@@ -72,14 +72,14 @@
             "open_issues": 3,
             "owner": "amazon-science",
             "repo": "ALoDLM",
-            "stars": 2,
+            "stars": 15,
             "topics": []
           },
           "first_seen": "2026-10-06T10:36:03.788Z"
         },
         {
           "node_type": "item",
-          "title": "Paper · Code ★29",
+          "title": "Paper · Code ★30",
           "description": "Towards Looped Models Done Right Part II: Rethinking at Fixed Points Design",
           "children": [],
           "repo_info": {
@@ -93,7 +93,7 @@
             "open_issues": 0,
             "owner": "ifm-ai",
             "repo": "xllm-loop",
-            "stars": 30,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-10-06T02:21:50.055Z"
@@ -114,7 +114,7 @@
             "open_issues": 0,
             "owner": "hed-ucas",
             "repo": "LOOM",
-            "stars": 7,
+            "stars": 8,
             "topics": []
           },
           "first_seen": "2026-10-06T02:21:50.055Z"
@@ -128,7 +128,7 @@
         {
           "node_type": "item",
           "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
-          "description": "ICLR 2020 7,748 arXiv · Code ★3,278",
+          "description": "ICLR 2020 7,749 arXiv · Code ★3,278",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -149,7 +149,7 @@
         {
           "node_type": "item",
           "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
-          "description": "ECCV 2020 4,259 arXiv · Code ★4,105",
+          "description": "ECCV 2020 4,263 arXiv · Code ★4,106",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -162,7 +162,7 @@
             "open_issues": 77,
             "owner": "princeton-vl",
             "repo": "RAFT",
-            "stars": 4106,
+            "stars": 4108,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -201,7 +201,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2025-12-29T10:31:27Z",
-            "open_issues": 2,
+            "open_issues": 1,
             "owner": "seal-rg",
             "repo": "recurrent-pretraining",
             "stars": 976,
@@ -240,7 +240,7 @@
         {
           "node_type": "item",
           "title": "Multiscale Deep Equilibrium Models",
-          "description": "NeurIPS 2020 272 arXiv · Code ★237",
+          "description": "NeurIPS 2020 271 arXiv · Code ★237",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -311,7 +311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:36:03.788Z",
+    "last_updated": "2026-10-07T01:41:02.849Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and selected technical blogs on Loop Models.",
@@ -319,7 +319,7 @@
       "id": 1219975226,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-10-06T03:09:53Z",
+      "last_commit": "2026-10-06T12:12:58Z",
       "open_issues": 0,
       "owner": "huskydoge",
       "repo": "Awesome-Loop-Models",
@@ -335,7 +335,7 @@
         "research-tool"
       ]
     },
-    "original_repository_sha": "dd54146a7602757e30fbf1c5ccf2f5903d58f73b",
+    "original_repository_sha": "780663add56cd395c61e2992e26c6511fe7b835c",
     "enhanced_repository": "enhansome/enhansome-Awesome-Loop-Models",
     "enhanced_repository_description": null,
     "title": "Awesome Loop Models with stars"
