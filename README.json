@@ -40,7 +40,7 @@
             "open_issues": 1,
             "owner": "seal-rg",
             "repo": "recurrent-pretraining",
-            "stars": 976,
+            "stars": 978,
             "topics": [
               "llms",
               "pretraining",
@@ -72,7 +72,7 @@
             "open_issues": 102,
             "owner": "google-research",
             "repo": "albert",
-            "stars": 3278,
+            "stars": 3277,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -93,7 +93,7 @@
             "open_issues": 77,
             "owner": "princeton-vl",
             "repo": "RAFT",
-            "stars": 4109,
+            "stars": 4111,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -135,7 +135,7 @@
             "open_issues": 1,
             "owner": "seal-rg",
             "repo": "recurrent-pretraining",
-            "stars": 976,
+            "stars": 978,
             "topics": [
               "llms",
               "pretraining",
@@ -242,7 +242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T02:20:29.816Z",
+    "last_updated": "2026-10-10T01:49:48.341Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and selected technical blogs on Loop Models.",
