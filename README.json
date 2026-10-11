@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "🌟 Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach",
-          "description": "NeurIPS 2025 flat-loop arXiv · Code ★976 · HF",
+          "description": "NeurIPS 2025 flat-loop arXiv · Code ★979 · HF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -40,7 +40,7 @@
             "open_issues": 1,
             "owner": "seal-rg",
             "repo": "recurrent-pretraining",
-            "stars": 978,
+            "stars": 979,
             "topics": [
               "llms",
               "pretraining",
@@ -59,7 +59,7 @@
         {
           "node_type": "item",
           "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
-          "description": "ICLR 2020 7,762 arXiv · Code ★3,278",
+          "description": "ICLR 2020 7,773 arXiv · Code ★3,277",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -80,7 +80,7 @@
         {
           "node_type": "item",
           "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
-          "description": "ECCV 2020 4,268 arXiv · Code ★4,109",
+          "description": "ECCV 2020 4,281 arXiv · Code ★4,112",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -93,7 +93,7 @@
             "open_issues": 77,
             "owner": "princeton-vl",
             "repo": "RAFT",
-            "stars": 4111,
+            "stars": 4112,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -101,7 +101,7 @@
         {
           "node_type": "item",
           "title": "Deep Equilibrium Models",
-          "description": "NeurIPS 2019 1,023 arXiv · Code ★809",
+          "description": "NeurIPS 2019 1,030 arXiv · Code ★809",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -122,7 +122,7 @@
         {
           "node_type": "item",
           "title": "🌟 Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach",
-          "description": "NeurIPS 2025 436 arXiv · Code ★976 · HF",
+          "description": "NeurIPS 2025 442 arXiv · Code ★979 · HF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -135,7 +135,7 @@
             "open_issues": 1,
             "owner": "seal-rg",
             "repo": "recurrent-pretraining",
-            "stars": 978,
+            "stars": 979,
             "topics": [
               "llms",
               "pretraining",
@@ -242,7 +242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T01:49:48.341Z",
+    "last_updated": "2026-10-11T01:05:20.344Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and selected technical blogs on Loop Models.",
@@ -250,11 +250,11 @@
       "id": 1219975226,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-10-08T12:14:13Z",
+      "last_commit": "2026-10-10T11:21:54Z",
       "open_issues": 0,
       "owner": "huskydoge",
       "repo": "Awesome-Loop-Models",
-      "stars": 434,
+      "stars": 436,
       "topics": [
         "attractors",
         "awesome-list",
@@ -266,7 +266,7 @@
         "research-tool"
       ]
     },
-    "original_repository_sha": "068f16f97ee4aee2f38fcec048a2098efbd8ccc6",
+    "original_repository_sha": "c3600833ef2fa14601422a16709d9649f5714891",
     "enhanced_repository": "enhansome/enhansome-Awesome-Loop-Models",
     "enhanced_repository_description": null,
     "title": "Awesome Loop Models with stars"
