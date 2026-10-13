@@ -1,12 +1,12 @@
 {
   "items": [
     {
-      "description": "The foundational papers, plus the ones the maintainer marks as must-read.",
+      "description": "The survey's core papers, plus the ones the maintainer marks as must-read.",
       "items": [
         {
           "node_type": "item",
           "title": "Deep Equilibrium Models",
-          "description": "NeurIPS 2019 implicit-layer arXiv · Code ★809",
+          "description": "NeurIPS 2019 implicit-fixed-point arXiv · Code ★809",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -26,8 +26,176 @@
         },
         {
           "node_type": "item",
+          "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
+          "description": "ICLR 2020 whole-stack arXiv · Code ★3,277",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
+            "homepage": null,
+            "id": 224296809,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2023-04-14T18:02:55Z",
+            "open_issues": 102,
+            "owner": "google-research",
+            "repo": "albert",
+            "stars": 3277,
+            "topics": []
+          },
+          "first_seen": "2026-09-30T01:21:53.537Z"
+        },
+        {
+          "node_type": "item",
+          "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
+          "description": "ECCV 2020 partial arXiv · Code ★4,113",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 250429436,
+            "language": "Python",
+            "license": "BSD-3-Clause",
+            "last_commit": "2025-08-24T23:34:28Z",
+            "open_issues": 77,
+            "owner": "princeton-vl",
+            "repo": "RAFT",
+            "stars": 4115,
+            "topics": []
+          },
+          "first_seen": "2026-09-30T01:21:53.537Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Monotone operator equilibrium networks",
+          "description": "NeurIPS 2020 implicit-fixed-point arXiv · Code ★54",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Monotone operator equilibrium networks",
+            "homepage": null,
+            "id": 272288026,
+            "language": "Jupyter Notebook",
+            "license": null,
+            "last_commit": "2020-06-22T22:35:42Z",
+            "open_issues": 0,
+            "owner": "locuslab",
+            "repo": "monotone_op_net",
+            "stars": 54,
+            "topics": []
+          },
+          "first_seen": "2026-10-13T03:05:22.404Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Can You Learn an Algorithm? Generalizing from Easy to Hard Problems with Recurrent Networks",
+          "description": "NeurIPS 2021 prelude-core-coda arXiv · Code ★61",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official repository for the paper \"Can You Learn an Algorithm? Generalizing from Easy to Hard Problems with Recurrent Networks\"",
+            "homepage": null,
+            "id": 374750905,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2022-03-01T15:21:53Z",
+            "open_issues": 0,
+            "owner": "aks2203",
+            "repo": "easy-to-hard",
+            "stars": 61,
+            "topics": []
+          },
+          "first_seen": "2026-10-13T03:05:22.404Z"
+        },
+        {
+          "node_type": "item",
+          "title": "End-to-end Algorithm Synthesis with Recurrent Networks: Extrapolation without Overthinking",
+          "description": "NeurIPS 2022 prelude-core-coda arXiv · Code ★92",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A centralized place for deep thinking code and experiments",
+            "homepage": null,
+            "id": 418533541,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2023-08-09T16:43:25Z",
+            "open_issues": 1,
+            "owner": "aks2203",
+            "repo": "deep-thinking",
+            "stars": 92,
+            "topics": []
+          },
+          "first_seen": "2026-10-13T03:05:22.404Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Looped Transformers are Better at Learning Learning Algorithms",
+          "description": "ICLR 2024 whole-stack arXiv · Code ★71",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 730516237,
+            "language": "Jupyter Notebook",
+            "license": "MIT",
+            "last_commit": "2023-12-12T05:10:05Z",
+            "open_issues": 2,
+            "owner": "Leiay",
+            "repo": "looped_transformer",
+            "stars": 71,
+            "topics": []
+          },
+          "first_seen": "2026-10-13T03:05:22.404Z"
+        },
+        {
+          "node_type": "item",
+          "title": "MoEUT: Mixture-of-Experts Universal Transformers",
+          "description": "NeurIPS 2024 whole-stack arXiv · Code ★93",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 805632749,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2024-08-18T17:25:41Z",
+            "open_issues": 2,
+            "owner": "RobertCsordas",
+            "repo": "moeut",
+            "stars": 93,
+            "topics": []
+          },
+          "first_seen": "2026-10-13T03:05:22.404Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Looped Transformers for Length Generalization",
+          "description": "ICLR 2025 whole-stack arXiv · Code ★14",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Code for Looped Transformers for Length Generalization (https://arxiv.org/abs/2409.15647), ICLR 2025",
+            "homepage": null,
+            "id": 835961553,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2025-04-30T00:37:56Z",
+            "open_issues": 0,
+            "owner": "UW-Madison-Lee-Lab",
+            "repo": "looped-tf",
+            "stars": 14,
+            "topics": []
+          },
+          "first_seen": "2026-10-13T03:05:22.404Z"
+        },
+        {
+          "node_type": "item",
           "title": "🌟 Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach",
-          "description": "NeurIPS 2025 flat-loop arXiv · Code ★979 · HF",
+          "description": "NeurIPS 2025 prelude-core-coda arXiv · Code ★979 · HF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -49,9 +217,153 @@
             ]
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Hierarchical Reasoning Model",
+          "description": "2025 hierarchical arXiv · Code ★12,650",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Hierarchical Reasoning Model Official Release",
+            "homepage": "https://sapient.inc",
+            "id": 1016423859,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-03-31T23:08:31Z",
+            "open_issues": 75,
+            "owner": "sapientinc",
+            "repo": "HRM",
+            "stars": 12652,
+            "topics": [
+              "brain-inspired-ai",
+              "deep-learning",
+              "large-language-models",
+              "reasoning"
+            ]
+          },
+          "first_seen": "2026-10-13T03:05:22.404Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive Token-Level Computation",
+          "description": "NeurIPS 2025 whole-stack arXiv · Code ★640",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive Token-Level Computation (NeurIPS 2025)",
+            "homepage": "https://arxiv.org/abs/2507.10524",
+            "id": 1002668918,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-19T16:40:15Z",
+            "open_issues": 2,
+            "owner": "raymin0223",
+            "repo": "mixture_of_recursions",
+            "stars": 640,
+            "topics": [
+              "adaptive-computation",
+              "early-exiting",
+              "kv-cache",
+              "llm",
+              "recursive-transformers",
+              "router"
+            ]
+          },
+          "first_seen": "2026-10-13T03:05:22.404Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Less is More: Recursive Reasoning with Tiny Networks",
+          "description": "2025 hierarchical arXiv · Code ★6,557",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": null,
+            "homepage": null,
+            "id": 1071529858,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-04-01T00:50:39Z",
+            "open_issues": 40,
+            "owner": "SamsungSAILMontreal",
+            "repo": "TinyRecursiveModels",
+            "stars": 6557,
+            "topics": []
+          },
+          "first_seen": "2026-10-13T03:05:22.404Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Teaching Pretrained Language Models to Think Deeper with Retrofitted Recurrence",
+          "description": "2025 prelude-core-coda arXiv · Code ★71 · HF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Teaching Pretrained Language Models to Think Deeper with Retrofitted Recurrence",
+            "homepage": null,
+            "id": 1092971792,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2025-11-11T13:06:45Z",
+            "open_issues": 1,
+            "owner": "mcleish7",
+            "repo": "retrofitting-recurrence",
+            "stars": 71,
+            "topics": []
+          },
+          "first_seen": "2026-10-13T03:05:22.404Z"
         }
       ],
       "title": "🌟 Start here"
+    },
+    {
+      "description": "A daily watch adds new arXiv papers. The browser has every paper and each day's briefing.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "arXiv · Code",
+          "description": "Pretraining and Test-Time Training Budgets Matter for ARC: A Controlled Study of VARC and TRM §5.2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1411961664,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-09T14:41:48Z",
+            "open_issues": 0,
+            "owner": "AdrienDeliege",
+            "repo": "arc-training-budgets",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-10-13T03:05:22.404Z"
+        },
+        {
+          "node_type": "item",
+          "title": "arXiv · Code",
+          "description": "Scaling to Tens of Thousands of Test-Time Iterations with Loop-Native Attention Residuals §4.2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Scaling to Tens of Thousands of Test-Time Iterations with Loop-Native Attention Residuals",
+            "homepage": null,
+            "id": 1396951505,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-10-09T02:34:01Z",
+            "open_issues": 1,
+            "owner": "pixeli99",
+            "repo": "InfiLoop",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-10-13T03:05:22.404Z"
+        }
+      ],
+      "title": "🆕 Latest additions"
     },
     {
       "description": null,
@@ -59,7 +371,7 @@
         {
           "node_type": "item",
           "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
-          "description": "ICLR 2020 7,773 arXiv · Code ★3,277",
+          "description": "ICLR 2020 7,779 arXiv · Code ★3,277",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -80,7 +392,7 @@
         {
           "node_type": "item",
           "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
-          "description": "ECCV 2020 4,292 arXiv · Code ★4,113",
+          "description": "ECCV 2020 4,305 arXiv · Code ★4,113",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -93,7 +405,7 @@
             "open_issues": 77,
             "owner": "princeton-vl",
             "repo": "RAFT",
-            "stars": 4113,
+            "stars": 4115,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -122,7 +434,7 @@
         {
           "node_type": "item",
           "title": "🌟 Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach",
-          "description": "NeurIPS 2025 442 arXiv · Code ★979 · HF",
+          "description": "NeurIPS 2025 445 arXiv · Code ★979 · HF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -148,7 +460,7 @@
         {
           "node_type": "item",
           "title": "Neural GPUs Learn Algorithms",
-          "description": "ICLR 2016 410 arXiv · Code ★144",
+          "description": "ICLR 2016 411 arXiv · Code ★144",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -242,7 +554,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T01:26:46.441Z",
+    "last_updated": "2026-10-13T03:05:22.404Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and selected technical blogs on Loop Models.",
@@ -250,11 +562,11 @@
       "id": 1219975226,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-10-11T11:35:08Z",
+      "last_commit": "2026-10-12T15:11:58Z",
       "open_issues": 0,
       "owner": "huskydoge",
       "repo": "Awesome-Loop-Models",
-      "stars": 438,
+      "stars": 441,
       "topics": [
         "attractors",
         "awesome-list",
@@ -266,7 +578,7 @@
         "research-tool"
       ]
     },
-    "original_repository_sha": "b3bd09944cb8e1962318f8fe2b8046ca878c4e71",
+    "original_repository_sha": "be4e593bb303e572e2413641cca7ed16d3fdcf96",
     "enhanced_repository": "enhansome/enhansome-Awesome-Loop-Models",
     "enhanced_repository_description": null,
     "title": "Awesome Loop Models with stars"
