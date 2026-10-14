@@ -40,7 +40,7 @@
             "open_issues": 102,
             "owner": "google-research",
             "repo": "albert",
-            "stars": 3277,
+            "stars": 3278,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -48,7 +48,7 @@
         {
           "node_type": "item",
           "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
-          "description": "ECCV 2020 partial arXiv · Code ★4,113",
+          "description": "ECCV 2020 partial arXiv · Code ★4,115",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -195,7 +195,7 @@
         {
           "node_type": "item",
           "title": "🌟 Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach",
-          "description": "NeurIPS 2025 prelude-core-coda arXiv · Code ★979 · HF",
+          "description": "NeurIPS 2025 prelude-core-coda arXiv · Code ★980 · HF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -208,7 +208,7 @@
             "open_issues": 1,
             "owner": "seal-rg",
             "repo": "recurrent-pretraining",
-            "stars": 979,
+            "stars": 981,
             "topics": [
               "llms",
               "pretraining",
@@ -221,7 +221,7 @@
         {
           "node_type": "item",
           "title": "Hierarchical Reasoning Model",
-          "description": "2025 hierarchical arXiv · Code ★12,650",
+          "description": "2025 hierarchical arXiv · Code ★12,653",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -234,7 +234,7 @@
             "open_issues": 75,
             "owner": "sapientinc",
             "repo": "HRM",
-            "stars": 12652,
+            "stars": 12655,
             "topics": [
               "brain-inspired-ai",
               "deep-learning",
@@ -288,7 +288,7 @@
             "open_issues": 40,
             "owner": "SamsungSAILMontreal",
             "repo": "TinyRecursiveModels",
-            "stars": 6557,
+            "stars": 6556,
             "topics": []
           },
           "first_seen": "2026-10-13T03:05:22.404Z"
@@ -343,7 +343,7 @@
         },
         {
           "node_type": "item",
-          "title": "arXiv · Code",
+          "title": "arXiv · Code ★3",
           "description": "Scaling to Tens of Thousands of Test-Time Iterations with Loop-Native Attention Residuals §4.2",
           "children": [],
           "repo_info": {
@@ -357,7 +357,7 @@
             "open_issues": 1,
             "owner": "pixeli99",
             "repo": "InfiLoop",
-            "stars": 2,
+            "stars": 3,
             "topics": []
           },
           "first_seen": "2026-10-13T03:05:22.404Z"
@@ -371,7 +371,7 @@
         {
           "node_type": "item",
           "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
-          "description": "ICLR 2020 7,779 arXiv · Code ★3,277",
+          "description": "ICLR 2020 7,782 arXiv · Code ★3,277",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -384,7 +384,7 @@
             "open_issues": 102,
             "owner": "google-research",
             "repo": "albert",
-            "stars": 3277,
+            "stars": 3278,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -392,7 +392,7 @@
         {
           "node_type": "item",
           "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
-          "description": "ECCV 2020 4,305 arXiv · Code ★4,113",
+          "description": "ECCV 2020 4,306 arXiv · Code ★4,115",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -434,7 +434,7 @@
         {
           "node_type": "item",
           "title": "🌟 Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach",
-          "description": "NeurIPS 2025 445 arXiv · Code ★979 · HF",
+          "description": "NeurIPS 2025 445 arXiv · Code ★980 · HF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -447,7 +447,7 @@
             "open_issues": 1,
             "owner": "seal-rg",
             "repo": "recurrent-pretraining",
-            "stars": 979,
+            "stars": 981,
             "topics": [
               "llms",
               "pretraining",
@@ -554,7 +554,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T03:05:22.404Z",
+    "last_updated": "2026-10-14T01:17:32.748Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and selected technical blogs on Loop Models.",
@@ -562,11 +562,11 @@
       "id": 1219975226,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-10-12T15:11:58Z",
+      "last_commit": "2026-10-13T12:54:42Z",
       "open_issues": 0,
       "owner": "huskydoge",
       "repo": "Awesome-Loop-Models",
-      "stars": 441,
+      "stars": 443,
       "topics": [
         "attractors",
         "awesome-list",
@@ -578,7 +578,7 @@
         "research-tool"
       ]
     },
-    "original_repository_sha": "be4e593bb303e572e2413641cca7ed16d3fdcf96",
+    "original_repository_sha": "4ee8c3363e549c7d5059c8cd67e25e4c00f2443a",
     "enhanced_repository": "enhansome/enhansome-Awesome-Loop-Models",
     "enhanced_repository_description": null,
     "title": "Awesome Loop Models with stars"
