@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "The survey's core papers, plus the ones the maintainer marks as must-read.",
+      "description": "Core references for loop models, plus the ones the maintainer marks as must-read.",
       "items": [
         {
           "node_type": "item",
@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
-          "description": "ICLR 2020 whole-stack arXiv · Code ★3,277",
+          "description": "ICLR 2020 whole-stack arXiv · Code ★3,278",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -195,7 +195,7 @@
         {
           "node_type": "item",
           "title": "🌟 Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach",
-          "description": "NeurIPS 2025 prelude-core-coda arXiv · Code ★980 · HF",
+          "description": "NeurIPS 2025 prelude-core-coda arXiv · Code ★981 · HF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -221,7 +221,7 @@
         {
           "node_type": "item",
           "title": "Hierarchical Reasoning Model",
-          "description": "2025 hierarchical arXiv · Code ★12,653",
+          "description": "2025 hierarchical arXiv · Code ★12,656",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -234,7 +234,7 @@
             "open_issues": 75,
             "owner": "sapientinc",
             "repo": "HRM",
-            "stars": 12655,
+            "stars": 12656,
             "topics": [
               "brain-inspired-ai",
               "deep-learning",
@@ -275,7 +275,7 @@
         {
           "node_type": "item",
           "title": "Less is More: Recursive Reasoning with Tiny Networks",
-          "description": "2025 hierarchical arXiv · Code ★6,557",
+          "description": "2025 hierarchical arXiv · Code ★6,556",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -323,44 +323,65 @@
         {
           "node_type": "item",
           "title": "arXiv · Code",
-          "description": "Pretraining and Test-Time Training Budgets Matter for ARC: A Controlled Study of VARC and TRM §5.2",
+          "description": "HF · Project Input-Conditioned Search for Efficient Test-Time Scaling of Recursive Reasoners §6.2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Input-Conditioned Search for Efficient Test-Time Scaling of Recursive Reasoners",
+            "homepage": "https://icsearch.github.io",
+            "id": 1297855244,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-14T17:38:25Z",
+            "open_issues": 0,
+            "owner": "icsearch",
+            "repo": "ICS",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-10-15T00:38:51.867Z"
+        },
+        {
+          "node_type": "item",
+          "title": "arXiv · Code ★1",
+          "description": "Looped Reasoning Finishes Earlier Than You Think §4.5",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official Implementation of QRR",
+            "homepage": null,
+            "id": 1411861093,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-09T13:27:55Z",
+            "open_issues": 0,
+            "owner": "camail-official",
+            "repo": "Quotient_Recurrent_Reasoner_QRR",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-10-15T00:38:51.867Z"
+        },
+        {
+          "node_type": "item",
+          "title": "arXiv · Code",
+          "description": "LoopQuant: Accurate and Efficient Post-Training Quantization for Looped Transformers §7.1",
           "children": [],
           "repo_info": {
             "archived": false,
             "description": null,
             "homepage": null,
-            "id": 1411961664,
+            "id": 1385505945,
             "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-09T14:41:48Z",
+            "license": null,
+            "last_commit": "2026-09-24T12:59:58Z",
             "open_issues": 0,
-            "owner": "AdrienDeliege",
-            "repo": "arc-training-budgets",
+            "owner": "Kishon-zzx",
+            "repo": "LoopQuant",
             "stars": 0,
             "topics": []
           },
-          "first_seen": "2026-10-13T03:05:22.404Z"
-        },
-        {
-          "node_type": "item",
-          "title": "arXiv · Code ★3",
-          "description": "Scaling to Tens of Thousands of Test-Time Iterations with Loop-Native Attention Residuals §4.2",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Scaling to Tens of Thousands of Test-Time Iterations with Loop-Native Attention Residuals",
-            "homepage": null,
-            "id": 1396951505,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-10-09T02:34:01Z",
-            "open_issues": 1,
-            "owner": "pixeli99",
-            "repo": "InfiLoop",
-            "stars": 3,
-            "topics": []
-          },
-          "first_seen": "2026-10-13T03:05:22.404Z"
+          "first_seen": "2026-10-15T00:38:51.867Z"
         }
       ],
       "title": "🆕 Latest additions"
@@ -371,7 +392,7 @@
         {
           "node_type": "item",
           "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
-          "description": "ICLR 2020 7,782 arXiv · Code ★3,277",
+          "description": "ICLR 2020 7,784 arXiv · Code ★3,278",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -392,7 +413,7 @@
         {
           "node_type": "item",
           "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
-          "description": "ECCV 2020 4,306 arXiv · Code ★4,115",
+          "description": "ECCV 2020 4,316 arXiv · Code ★4,115",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -413,7 +434,7 @@
         {
           "node_type": "item",
           "title": "Deep Equilibrium Models",
-          "description": "NeurIPS 2019 1,031 arXiv · Code ★809",
+          "description": "NeurIPS 2019 1,032 arXiv · Code ★809",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -434,7 +455,7 @@
         {
           "node_type": "item",
           "title": "🌟 Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach",
-          "description": "NeurIPS 2025 445 arXiv · Code ★980 · HF",
+          "description": "NeurIPS 2025 447 arXiv · Code ★981 · HF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -554,7 +575,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T01:17:32.748Z",
+    "last_updated": "2026-10-15T00:38:51.867Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and selected technical blogs on Loop Models.",
@@ -562,7 +583,7 @@
       "id": 1219975226,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-10-13T12:54:42Z",
+      "last_commit": "2026-10-14T19:06:57Z",
       "open_issues": 0,
       "owner": "huskydoge",
       "repo": "Awesome-Loop-Models",
@@ -578,7 +599,7 @@
         "research-tool"
       ]
     },
-    "original_repository_sha": "4ee8c3363e549c7d5059c8cd67e25e4c00f2443a",
+    "original_repository_sha": "f7f11b2ae55a8fd8f4e7bc3f53795dad849aaf92",
     "enhanced_repository": "enhansome/enhansome-Awesome-Loop-Models",
     "enhanced_repository_description": null,
     "title": "Awesome Loop Models with stars"
