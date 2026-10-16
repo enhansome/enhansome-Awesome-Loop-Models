@@ -145,7 +145,7 @@
             "open_issues": 2,
             "owner": "Leiay",
             "repo": "looped_transformer",
-            "stars": 71,
+            "stars": 70,
             "topics": []
           },
           "first_seen": "2026-10-13T03:05:22.404Z"
@@ -208,7 +208,7 @@
             "open_issues": 1,
             "owner": "seal-rg",
             "repo": "recurrent-pretraining",
-            "stars": 981,
+            "stars": 980,
             "topics": [
               "llms",
               "pretraining",
@@ -221,7 +221,7 @@
         {
           "node_type": "item",
           "title": "Hierarchical Reasoning Model",
-          "description": "2025 hierarchical arXiv · Code ★12,656",
+          "description": "2025 hierarchical arXiv · Code ★12,657",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -234,7 +234,7 @@
             "open_issues": 75,
             "owner": "sapientinc",
             "repo": "HRM",
-            "stars": 12656,
+            "stars": 12657,
             "topics": [
               "brain-inspired-ai",
               "deep-learning",
@@ -260,7 +260,7 @@
             "open_issues": 2,
             "owner": "raymin0223",
             "repo": "mixture_of_recursions",
-            "stars": 640,
+            "stars": 641,
             "topics": [
               "adaptive-computation",
               "early-exiting",
@@ -392,7 +392,7 @@
         {
           "node_type": "item",
           "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
-          "description": "ICLR 2020 7,784 arXiv · Code ★3,278",
+          "description": "ICLR 2020 7,789 arXiv · Code ★3,278",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -413,7 +413,7 @@
         {
           "node_type": "item",
           "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
-          "description": "ECCV 2020 4,316 arXiv · Code ★4,115",
+          "description": "ECCV 2020 4,323 arXiv · Code ★4,115",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -434,7 +434,7 @@
         {
           "node_type": "item",
           "title": "Deep Equilibrium Models",
-          "description": "NeurIPS 2019 1,032 arXiv · Code ★809",
+          "description": "NeurIPS 2019 1,036 arXiv · Code ★809",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -455,7 +455,7 @@
         {
           "node_type": "item",
           "title": "🌟 Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach",
-          "description": "NeurIPS 2025 447 arXiv · Code ★981 · HF",
+          "description": "NeurIPS 2025 460 arXiv · Code ★981 · HF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -468,7 +468,7 @@
             "open_issues": 1,
             "owner": "seal-rg",
             "repo": "recurrent-pretraining",
-            "stars": 981,
+            "stars": 980,
             "topics": [
               "llms",
               "pretraining",
@@ -504,7 +504,7 @@
         {
           "node_type": "item",
           "title": "Multiscale Deep Equilibrium Models",
-          "description": "NeurIPS 2020 272 arXiv · Code ★237",
+          "description": "NeurIPS 2020 273 arXiv · Code ★237",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -575,7 +575,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T00:38:51.867Z",
+    "last_updated": "2026-10-16T00:30:52.732Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and selected technical blogs on Loop Models.",
@@ -583,11 +583,11 @@
       "id": 1219975226,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-10-14T19:06:57Z",
-      "open_issues": 0,
+      "last_commit": "2026-10-15T10:11:07Z",
+      "open_issues": 1,
       "owner": "huskydoge",
       "repo": "Awesome-Loop-Models",
-      "stars": 443,
+      "stars": 447,
       "topics": [
         "attractors",
         "awesome-list",
@@ -599,7 +599,7 @@
         "research-tool"
       ]
     },
-    "original_repository_sha": "f7f11b2ae55a8fd8f4e7bc3f53795dad849aaf92",
+    "original_repository_sha": "6a139af2d5fd16f7e53c13fc98fd8fec2553d23b",
     "enhanced_repository": "enhansome/enhansome-Awesome-Loop-Models",
     "enhanced_repository_description": null,
     "title": "Awesome Loop Models with stars"
