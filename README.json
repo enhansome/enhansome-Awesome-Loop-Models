@@ -61,7 +61,7 @@
             "open_issues": 77,
             "owner": "princeton-vl",
             "repo": "RAFT",
-            "stars": 4115,
+            "stars": 4116,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -234,7 +234,7 @@
             "open_issues": 75,
             "owner": "sapientinc",
             "repo": "HRM",
-            "stars": 12656,
+            "stars": 12657,
             "topics": [
               "brain-inspired-ai",
               "deep-learning",
@@ -275,7 +275,7 @@
         {
           "node_type": "item",
           "title": "Less is More: Recursive Reasoning with Tiny Networks",
-          "description": "2025 hierarchical arXiv · Code ★6,556",
+          "description": "2025 hierarchical arXiv · Code ★6,555",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -322,7 +322,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "arXiv · Code ★10",
+          "title": "arXiv · Code ★11",
           "description": "Project LatentLoop: Scaling Looped MoE Models with Asymmetric Compute Allocation §4.6",
           "children": [],
           "repo_info": {
@@ -336,7 +336,7 @@
             "open_issues": 1,
             "owner": "lcqysl",
             "repo": "LatentLoop",
-            "stars": 10,
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-10-17T00:37:28.391Z"
@@ -364,7 +364,7 @@
         },
         {
           "node_type": "item",
-          "title": "arXiv · Code ★3",
+          "title": "arXiv · Code ★5",
           "description": "Looped Reasoning Finishes Earlier Than You Think §4.5",
           "children": [],
           "repo_info": {
@@ -378,7 +378,7 @@
             "open_issues": 0,
             "owner": "camail-official",
             "repo": "Quotient_Recurrent_Reasoner_QRR",
-            "stars": 4,
+            "stars": 6,
             "topics": []
           },
           "first_seen": "2026-10-15T00:38:51.867Z"
@@ -426,7 +426,7 @@
             "open_issues": 77,
             "owner": "princeton-vl",
             "repo": "RAFT",
-            "stars": 4115,
+            "stars": 4116,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -554,7 +554,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T00:37:28.391Z",
+    "last_updated": "2026-10-18T00:07:10.237Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and selected technical blogs on Loop Models.",
@@ -562,11 +562,11 @@
       "id": 1219975226,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-10-16T17:38:51Z",
+      "last_commit": "2026-10-17T09:37:07Z",
       "open_issues": 0,
       "owner": "huskydoge",
       "repo": "Awesome-Loop-Models",
-      "stars": 449,
+      "stars": 450,
       "topics": [
         "attractors",
         "awesome-list",
@@ -578,7 +578,7 @@
         "research-tool"
       ]
     },
-    "original_repository_sha": "6d67cc44bbbda60efd6d1b605e21e1bdf514d99b",
+    "original_repository_sha": "c4e854689aecd69d2fb1a0f45679635692ad6478",
     "enhanced_repository": "enhansome/enhansome-Awesome-Loop-Models",
     "enhanced_repository_description": null,
     "title": "Awesome Loop Models with stars"
