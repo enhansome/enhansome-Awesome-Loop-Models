@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
-          "description": "ICLR 2020 whole-stack arXiv · Code ★3,278",
+          "description": "ICLR 2020 whole-stack arXiv · Code ★3,277",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -40,7 +40,7 @@
             "open_issues": 102,
             "owner": "google-research",
             "repo": "albert",
-            "stars": 3278,
+            "stars": 3277,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -48,7 +48,7 @@
         {
           "node_type": "item",
           "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
-          "description": "ECCV 2020 partial arXiv · Code ★4,115",
+          "description": "ECCV 2020 partial arXiv · Code ★4,116",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -145,7 +145,7 @@
             "open_issues": 2,
             "owner": "Leiay",
             "repo": "looped_transformer",
-            "stars": 70,
+            "stars": 71,
             "topics": []
           },
           "first_seen": "2026-10-13T03:05:22.404Z"
@@ -208,7 +208,7 @@
             "open_issues": 1,
             "owner": "seal-rg",
             "repo": "recurrent-pretraining",
-            "stars": 980,
+            "stars": 981,
             "topics": [
               "llms",
               "pretraining",
@@ -221,7 +221,7 @@
         {
           "node_type": "item",
           "title": "Hierarchical Reasoning Model",
-          "description": "2025 hierarchical arXiv · Code ★12,657",
+          "description": "2025 hierarchical arXiv · Code ★12,658",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -257,7 +257,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-19T16:40:15Z",
-            "open_issues": 2,
+            "open_issues": 0,
             "owner": "raymin0223",
             "repo": "mixture_of_recursions",
             "stars": 641,
@@ -288,7 +288,7 @@
             "open_issues": 40,
             "owner": "SamsungSAILMontreal",
             "repo": "TinyRecursiveModels",
-            "stars": 6555,
+            "stars": 6556,
             "topics": []
           },
           "first_seen": "2026-10-13T03:05:22.404Z"
@@ -364,7 +364,7 @@
         },
         {
           "node_type": "item",
-          "title": "arXiv · Code ★5",
+          "title": "arXiv · Code ★6",
           "description": "Looped Reasoning Finishes Earlier Than You Think §4.5",
           "children": [],
           "repo_info": {
@@ -378,7 +378,7 @@
             "open_issues": 0,
             "owner": "camail-official",
             "repo": "Quotient_Recurrent_Reasoner_QRR",
-            "stars": 6,
+            "stars": 7,
             "topics": []
           },
           "first_seen": "2026-10-15T00:38:51.867Z"
@@ -392,7 +392,7 @@
         {
           "node_type": "item",
           "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
-          "description": "ICLR 2020 7,796 arXiv · Code ★3,278",
+          "description": "ICLR 2020 7,798 arXiv · Code ★3,277",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -405,7 +405,7 @@
             "open_issues": 102,
             "owner": "google-research",
             "repo": "albert",
-            "stars": 3278,
+            "stars": 3277,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -413,7 +413,7 @@
         {
           "node_type": "item",
           "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
-          "description": "ECCV 2020 4,328 arXiv · Code ★4,115",
+          "description": "ECCV 2020 4,330 arXiv · Code ★4,116",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -468,7 +468,7 @@
             "open_issues": 1,
             "owner": "seal-rg",
             "repo": "recurrent-pretraining",
-            "stars": 980,
+            "stars": 981,
             "topics": [
               "llms",
               "pretraining",
@@ -554,7 +554,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T00:07:10.237Z",
+    "last_updated": "2026-10-19T00:17:32.221Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and selected technical blogs on Loop Models.",
@@ -562,11 +562,11 @@
       "id": 1219975226,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-10-17T09:37:07Z",
+      "last_commit": "2026-10-18T09:50:46Z",
       "open_issues": 0,
       "owner": "huskydoge",
       "repo": "Awesome-Loop-Models",
-      "stars": 450,
+      "stars": 452,
       "topics": [
         "attractors",
         "awesome-list",
@@ -578,7 +578,7 @@
         "research-tool"
       ]
     },
-    "original_repository_sha": "c4e854689aecd69d2fb1a0f45679635692ad6478",
+    "original_repository_sha": "7a71dfd688f05a93a1ec04ab5659ec604d5cc869",
     "enhanced_repository": "enhansome/enhansome-Awesome-Loop-Models",
     "enhanced_repository_description": null,
     "title": "Awesome Loop Models with stars"
