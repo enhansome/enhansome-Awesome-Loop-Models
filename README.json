@@ -61,7 +61,7 @@
             "open_issues": 77,
             "owner": "princeton-vl",
             "repo": "RAFT",
-            "stars": 4116,
+            "stars": 4117,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -145,7 +145,7 @@
             "open_issues": 2,
             "owner": "Leiay",
             "repo": "looped_transformer",
-            "stars": 71,
+            "stars": 72,
             "topics": []
           },
           "first_seen": "2026-10-13T03:05:22.404Z"
@@ -221,7 +221,7 @@
         {
           "node_type": "item",
           "title": "Hierarchical Reasoning Model",
-          "description": "2025 hierarchical arXiv · Code ★12,659",
+          "description": "2025 hierarchical arXiv · Code ★12,660",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -247,7 +247,7 @@
         {
           "node_type": "item",
           "title": "Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive Token-Level Computation",
-          "description": "NeurIPS 2025 whole-stack arXiv · Code ★642",
+          "description": "NeurIPS 2025 whole-stack arXiv · Code ★643",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -260,7 +260,7 @@
             "open_issues": 0,
             "owner": "raymin0223",
             "repo": "mixture_of_recursions",
-            "stars": 642,
+            "stars": 643,
             "topics": [
               "adaptive-computation",
               "early-exiting",
@@ -322,7 +322,60 @@
       "items": [
         {
           "node_type": "item",
-          "title": "arXiv · Code ★3",
+          "title": "arXiv · Code ★1",
+          "description": "Causal Latent Workspaces for Looped Transformers §4.3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Code, results and LaTeX for Causal Latent Workspaces for Looped Transformers (arXiv:2610.22796).",
+            "homepage": "https://arxiv.org/abs/2610.22796",
+            "id": 1395903102,
+            "language": "TeX",
+            "license": "MIT",
+            "last_commit": "2026-10-19T03:09:48Z",
+            "open_issues": 0,
+            "owner": "izaznov",
+            "repo": "causal-latent-workspace-transformer",
+            "stars": 1,
+            "topics": [
+              "arxiv",
+              "causal-attention",
+              "language-modeling",
+              "looped-transformer",
+              "neural-memory",
+              "parameter-sharing",
+              "pytorch",
+              "recurrent-transformer",
+              "reproducible-research",
+              "transformer"
+            ]
+          },
+          "first_seen": "2026-10-21T00:42:24.692Z"
+        },
+        {
+          "node_type": "item",
+          "title": "arXiv · Code ★49",
+          "description": "Towards Looped Models Done Right, Part I: Topology, Input Injection, Recurrent-State Design §4.1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official code for Towards Looped Models Done Right based on xLLM",
+            "homepage": null,
+            "id": 1392830255,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-19T04:48:37Z",
+            "open_issues": 0,
+            "owner": "ifm-ai",
+            "repo": "xllm-loop",
+            "stars": 50,
+            "topics": []
+          },
+          "first_seen": "2026-10-21T00:42:24.692Z"
+        },
+        {
+          "node_type": "item",
+          "title": "arXiv · Code ★4",
           "description": "HF · Project LEV: Thinking Fast and Deep with Looped Decision Models §4.5",
           "children": [],
           "repo_info": {
@@ -336,7 +389,7 @@
             "open_issues": 1,
             "owner": "OpenLAIR",
             "repo": "lev",
-            "stars": 3,
+            "stars": 7,
             "topics": [
               "adaptive-computation",
               "adaptive-depth",
@@ -393,7 +446,7 @@
             "open_issues": 1,
             "owner": "lcqysl",
             "repo": "LatentLoop",
-            "stars": 12,
+            "stars": 13,
             "topics": []
           },
           "first_seen": "2026-10-17T00:37:28.391Z"
@@ -428,7 +481,7 @@
         {
           "node_type": "item",
           "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
-          "description": "ECCV 2020 4,334 arXiv · Code ★4,116",
+          "description": "ECCV 2020 4,335 arXiv · Code ★4,116",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -441,7 +494,7 @@
             "open_issues": 77,
             "owner": "princeton-vl",
             "repo": "RAFT",
-            "stars": 4116,
+            "stars": 4117,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -449,7 +502,7 @@
         {
           "node_type": "item",
           "title": "Deep Equilibrium Models",
-          "description": "NeurIPS 2019 1,041 arXiv · Code ★811",
+          "description": "NeurIPS 2019 1,043 arXiv · Code ★811",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -569,7 +622,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T01:07:36.331Z",
+    "last_updated": "2026-10-21T00:42:24.692Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and selected technical blogs on Loop Models.",
@@ -577,11 +630,11 @@
       "id": 1219975226,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-10-19T22:09:46Z",
+      "last_commit": "2026-10-20T10:18:31Z",
       "open_issues": 1,
       "owner": "huskydoge",
       "repo": "Awesome-Loop-Models",
-      "stars": 455,
+      "stars": 459,
       "topics": [
         "attractors",
         "awesome-list",
@@ -593,7 +646,7 @@
         "research-tool"
       ]
     },
-    "original_repository_sha": "23ac1e83e3d7bae52e28c59f4202bae4b18db6cc",
+    "original_repository_sha": "b7ed896a6e211d7c23eaf5427db2ed44af36e79b",
     "enhanced_repository": "enhansome/enhansome-Awesome-Loop-Models",
     "enhanced_repository_description": null,
     "title": "Awesome Loop Models with stars"
