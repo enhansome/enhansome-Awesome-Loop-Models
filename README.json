@@ -67,7 +67,7 @@
             "open_issues": 102,
             "owner": "google-research",
             "repo": "albert",
-            "stars": 3276,
+            "stars": 3275,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -222,7 +222,7 @@
         {
           "node_type": "item",
           "title": "🌟 Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach",
-          "description": "NeurIPS 2025 prelude-core-coda arXiv · Code ★983 · HF",
+          "description": "NeurIPS 2025 prelude-core-coda arXiv · Code ★985 · HF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -235,7 +235,7 @@
             "open_issues": 1,
             "owner": "seal-rg",
             "repo": "recurrent-pretraining",
-            "stars": 984,
+            "stars": 985,
             "topics": [
               "llms",
               "pretraining",
@@ -248,7 +248,7 @@
         {
           "node_type": "item",
           "title": "Hierarchical Reasoning Model",
-          "description": "2025 hierarchical arXiv · Code ★12,659",
+          "description": "2025 hierarchical arXiv · Code ★12,660",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -302,7 +302,7 @@
         {
           "node_type": "item",
           "title": "Less is More: Recursive Reasoning with Tiny Networks",
-          "description": "2025 hierarchical arXiv · Code ★6,555",
+          "description": "2025 hierarchical arXiv · Code ★6,553",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -391,7 +391,7 @@
         },
         {
           "node_type": "item",
-          "title": "arXiv · Code ★7",
+          "title": "arXiv · Code ★9",
           "description": "Spherical Fixed-Point Reasoners: Adaptive Loop Halting on the Hypersphere §4.5",
           "children": [],
           "repo_info": {
@@ -405,63 +405,10 @@
             "open_issues": 0,
             "owner": "arberzela",
             "repo": "sfprm",
-            "stars": 8,
+            "stars": 9,
             "topics": []
           },
           "first_seen": "2026-10-22T00:45:48.915Z"
-        },
-        {
-          "node_type": "item",
-          "title": "arXiv · Code",
-          "description": "Inside the Loop: A Mechanistic Study of Weight-Tied Transformers on Depth-Bound Algorithmic Tasks §8.2",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Code and results for Inside the Loop (Sesodia et al., NeurIPS 2026):",
-            "homepage": null,
-            "id": 1231473602,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-16T13:11:27Z",
-            "open_issues": 0,
-            "owner": "magnus-sesodia",
-            "repo": "insidetheloop",
-            "stars": 0,
-            "topics": []
-          },
-          "first_seen": "2026-10-22T00:45:48.915Z"
-        },
-        {
-          "node_type": "item",
-          "title": "arXiv · Code ★1",
-          "description": "Causal Latent Workspaces for Looped Transformers §4.3",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Code, results and LaTeX for Causal Latent Workspaces for Looped Transformers (arXiv:2610.22796).",
-            "homepage": "https://arxiv.org/abs/2610.22796",
-            "id": 1395903102,
-            "language": "TeX",
-            "license": "MIT",
-            "last_commit": "2026-10-19T03:09:48Z",
-            "open_issues": 0,
-            "owner": "izaznov",
-            "repo": "causal-latent-workspace-transformer",
-            "stars": 1,
-            "topics": [
-              "arxiv",
-              "causal-attention",
-              "language-modeling",
-              "looped-transformer",
-              "neural-memory",
-              "parameter-sharing",
-              "pytorch",
-              "recurrent-transformer",
-              "reproducible-research",
-              "transformer"
-            ]
-          },
-          "first_seen": "2026-10-21T00:42:24.692Z"
         }
       ],
       "title": "🆕 Latest additions"
@@ -472,7 +419,7 @@
         {
           "node_type": "item",
           "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
-          "description": "ICLR 2020 7,807 arXiv · Code ★3,276",
+          "description": "ICLR 2020 7,812 arXiv · Code ★3,276",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -485,7 +432,7 @@
             "open_issues": 102,
             "owner": "google-research",
             "repo": "albert",
-            "stars": 3276,
+            "stars": 3275,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -493,7 +440,7 @@
         {
           "node_type": "item",
           "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
-          "description": "ECCV 2020 4,344 arXiv · Code ★4,117",
+          "description": "ECCV 2020 4,351 arXiv · Code ★4,117",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -514,7 +461,7 @@
         {
           "node_type": "item",
           "title": "Universal Transformers",
-          "description": "ICLR 2019 1,150 arXiv · Code ★17,474",
+          "description": "ICLR 2019 1,153 arXiv · Code ★17,474",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -541,7 +488,7 @@
         {
           "node_type": "item",
           "title": "Deep Equilibrium Models",
-          "description": "NeurIPS 2019 1,050 arXiv · Code ★811",
+          "description": "NeurIPS 2019 1,053 arXiv · Code ★811",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -562,7 +509,7 @@
         {
           "node_type": "item",
           "title": "🌟 Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach",
-          "description": "NeurIPS 2025 485 arXiv · Code ★983 · HF",
+          "description": "NeurIPS 2025 491 arXiv · Code ★985 · HF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -575,7 +522,7 @@
             "open_issues": 1,
             "owner": "seal-rg",
             "repo": "recurrent-pretraining",
-            "stars": 984,
+            "stars": 985,
             "topics": [
               "llms",
               "pretraining",
@@ -651,7 +598,7 @@
             "open_issues": 0,
             "owner": "sanyalsunny111",
             "repo": "Looped-GPT",
-            "stars": 25,
+            "stars": 26,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -661,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T00:45:48.915Z",
+    "last_updated": "2026-10-23T00:45:59.694Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and selected technical blogs on Loop Models.",
@@ -669,11 +616,11 @@
       "id": 1219975226,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-10-21T10:27:19Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-22T10:27:11Z",
+      "open_issues": 0,
       "owner": "huskydoge",
       "repo": "Awesome-Loop-Models",
-      "stars": 461,
+      "stars": 462,
       "topics": [
         "attractors",
         "awesome-list",
@@ -685,7 +632,7 @@
         "research-tool"
       ]
     },
-    "original_repository_sha": "36657ed0af4dfb059ff84042255068a740219676",
+    "original_repository_sha": "42c4d758786265c546c6f0f268085809bc6d7388",
     "enhanced_repository": "enhansome/enhansome-Awesome-Loop-Models",
     "enhanced_repository_description": null,
     "title": "Awesome Loop Models with stars"
