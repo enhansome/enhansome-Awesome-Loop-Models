@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Universal Transformers",
-          "description": "ICLR 2019 whole-stack arXiv · Code ★17,476",
+          "description": "ICLR 2019 whole-stack arXiv · Code ★17,475",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -19,7 +19,7 @@
             "open_issues": 589,
             "owner": "tensorflow",
             "repo": "tensor2tensor",
-            "stars": 17476,
+            "stars": 17474,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -33,7 +33,7 @@
         {
           "node_type": "item",
           "title": "Deep Equilibrium Models",
-          "description": "NeurIPS 2019 implicit-fixed-point arXiv · Code ★811",
+          "description": "NeurIPS 2019 implicit-fixed-point arXiv · Code ★812",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -46,7 +46,7 @@
             "open_issues": 9,
             "owner": "locuslab",
             "repo": "deq",
-            "stars": 812,
+            "stars": 813,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -261,7 +261,7 @@
             "open_issues": 75,
             "owner": "sapientinc",
             "repo": "HRM",
-            "stars": 12661,
+            "stars": 12660,
             "topics": [
               "brain-inspired-ai",
               "deep-learning",
@@ -302,7 +302,7 @@
         {
           "node_type": "item",
           "title": "Less is More: Recursive Reasoning with Tiny Networks",
-          "description": "2025 hierarchical arXiv · Code ★6,552",
+          "description": "2025 hierarchical arXiv · Code ★6,553",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -370,7 +370,7 @@
         },
         {
           "node_type": "item",
-          "title": "arXiv · Code",
+          "title": "arXiv · Code ★1",
           "description": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation §9.5",
           "children": [],
           "repo_info": {
@@ -384,7 +384,7 @@
             "open_issues": 0,
             "owner": "Elpmis117",
             "repo": "LoopRec",
-            "stars": 0,
+            "stars": 1,
             "topics": []
           },
           "first_seen": "2026-10-24T00:51:59.913Z"
@@ -401,7 +401,7 @@
             "id": 1427467100,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-24T18:22:40Z",
+            "last_commit": "2026-10-27T21:21:17Z",
             "open_issues": 0,
             "owner": "Aur-Shalev-Merin",
             "repo": "lost-gradient-looped-transformers",
@@ -419,7 +419,7 @@
         {
           "node_type": "item",
           "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
-          "description": "ICLR 2020 7,826 arXiv · Code ★3,274",
+          "description": "ICLR 2020 7,831 arXiv · Code ★3,274",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -440,7 +440,7 @@
         {
           "node_type": "item",
           "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
-          "description": "ECCV 2020 4,366 arXiv · Code ★4,118",
+          "description": "ECCV 2020 4,368 arXiv · Code ★4,118",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -461,7 +461,7 @@
         {
           "node_type": "item",
           "title": "Universal Transformers",
-          "description": "ICLR 2019 1,160 arXiv · Code ★17,476",
+          "description": "ICLR 2019 1,162 arXiv · Code ★17,475",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -474,7 +474,7 @@
             "open_issues": 589,
             "owner": "tensorflow",
             "repo": "tensor2tensor",
-            "stars": 17476,
+            "stars": 17474,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -488,7 +488,7 @@
         {
           "node_type": "item",
           "title": "Deep Equilibrium Models",
-          "description": "NeurIPS 2019 1,057 arXiv · Code ★811",
+          "description": "NeurIPS 2019 1,058 arXiv · Code ★812",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -501,7 +501,7 @@
             "open_issues": 9,
             "owner": "locuslab",
             "repo": "deq",
-            "stars": 812,
+            "stars": 813,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -509,7 +509,7 @@
         {
           "node_type": "item",
           "title": "🌟 Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach",
-          "description": "NeurIPS 2025 501 arXiv · Code ★986 · HF",
+          "description": "NeurIPS 2025 504 arXiv · Code ★986 · HF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T01:32:26.413Z",
+    "last_updated": "2026-10-28T01:29:47.014Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and selected technical blogs on Loop Models.",
@@ -616,11 +616,11 @@
       "id": 1219975226,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-10-27T01:06:08Z",
+      "last_commit": "2026-10-28T01:12:07Z",
       "open_issues": 1,
       "owner": "huskydoge",
       "repo": "Awesome-Loop-Models",
-      "stars": 468,
+      "stars": 469,
       "topics": [
         "attractors",
         "awesome-list",
@@ -632,7 +632,7 @@
         "research-tool"
       ]
     },
-    "original_repository_sha": "04a8bd3a61ebf8e401521e4de177e510d7738d7b",
+    "original_repository_sha": "9329bd4eb055d54f29b50b0377861b13d981f920",
     "enhanced_repository": "enhansome/enhansome-Awesome-Loop-Models",
     "enhanced_repository_description": null,
     "title": "Awesome Loop Models with stars"
