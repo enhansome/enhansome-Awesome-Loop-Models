@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Universal Transformers",
-          "description": "ICLR 2019 whole-stack arXiv · Code ★17,473",
+          "description": "ICLR 2019 whole-stack arXiv · Code ★17,472",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -222,7 +222,7 @@
         {
           "node_type": "item",
           "title": "🌟 Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach",
-          "description": "NeurIPS 2025 prelude-core-coda arXiv · Code ★986 · HF",
+          "description": "NeurIPS 2025 prelude-core-coda arXiv · Code ★987 · HF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -235,7 +235,7 @@
             "open_issues": 1,
             "owner": "seal-rg",
             "repo": "recurrent-pretraining",
-            "stars": 986,
+            "stars": 987,
             "topics": [
               "llms",
               "pretraining",
@@ -248,7 +248,7 @@
         {
           "node_type": "item",
           "title": "Hierarchical Reasoning Model",
-          "description": "2025 hierarchical arXiv · Code ★12,660",
+          "description": "2025 hierarchical arXiv · Code ★12,661",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -274,7 +274,7 @@
         {
           "node_type": "item",
           "title": "Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive Token-Level Computation",
-          "description": "NeurIPS 2025 whole-stack arXiv · Code ★647",
+          "description": "NeurIPS 2025 whole-stack arXiv · Code ★648",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -315,7 +315,7 @@
             "open_issues": 40,
             "owner": "SamsungSAILMontreal",
             "repo": "TinyRecursiveModels",
-            "stars": 6552,
+            "stars": 6553,
             "topics": []
           },
           "first_seen": "2026-10-13T03:05:22.404Z"
@@ -350,7 +350,7 @@
         {
           "node_type": "item",
           "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
-          "description": "ICLR 2020 7,837 arXiv · Code ★3,274",
+          "description": "ICLR 2020 7,860 arXiv · Code ★3,274",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -371,7 +371,7 @@
         {
           "node_type": "item",
           "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
-          "description": "ECCV 2020 4,372 arXiv · Code ★4,118",
+          "description": "ECCV 2020 4,405 arXiv · Code ★4,118",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -392,7 +392,7 @@
         {
           "node_type": "item",
           "title": "Universal Transformers",
-          "description": "ICLR 2019 1,167 arXiv · Code ★17,473",
+          "description": "ICLR 2019 1,170 arXiv · Code ★17,472",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -419,7 +419,7 @@
         {
           "node_type": "item",
           "title": "Deep Equilibrium Models",
-          "description": "NeurIPS 2019 1,062 arXiv · Code ★813",
+          "description": "NeurIPS 2019 1,068 arXiv · Code ★813",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -440,7 +440,7 @@
         {
           "node_type": "item",
           "title": "🌟 Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach",
-          "description": "NeurIPS 2025 510 arXiv · Code ★986 · HF",
+          "description": "NeurIPS 2025 512 arXiv · Code ★987 · HF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -453,7 +453,7 @@
             "open_issues": 1,
             "owner": "seal-rg",
             "repo": "recurrent-pretraining",
-            "stars": 986,
+            "stars": 987,
             "topics": [
               "llms",
               "pretraining",
@@ -466,7 +466,7 @@
         {
           "node_type": "item",
           "title": "Neural GPUs Learn Algorithms",
-          "description": "ICLR 2016 411 arXiv · Code ★145",
+          "description": "ICLR 2016 412 arXiv · Code ★145",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T01:53:12.933Z",
+    "last_updated": "2026-10-30T02:02:53.921Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and selected technical blogs on Loop Models.",
@@ -547,11 +547,11 @@
       "id": 1219975226,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-10-29T01:11:49Z",
+      "last_commit": "2026-10-30T02:02:16Z",
       "open_issues": 1,
       "owner": "huskydoge",
       "repo": "Awesome-Loop-Models",
-      "stars": 469,
+      "stars": 470,
       "topics": [
         "attractors",
         "awesome-list",
@@ -563,7 +563,7 @@
         "research-tool"
       ]
     },
-    "original_repository_sha": "b00bb32ecc3ea4b74b9bb22f1e7fe43d51c152b7",
+    "original_repository_sha": "6c21e9bcf1b43e46ba3594e1ba541e008159a160",
     "enhanced_repository": "enhansome/enhansome-Awesome-Loop-Models",
     "enhanced_repository_description": null,
     "title": "Awesome Loop Models with stars"
