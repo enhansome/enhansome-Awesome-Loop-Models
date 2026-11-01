@@ -54,7 +54,7 @@
         {
           "node_type": "item",
           "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
-          "description": "ICLR 2020 whole-stack arXiv · Code ★3,274",
+          "description": "ICLR 2020 whole-stack arXiv · Code ★3,275",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -67,7 +67,7 @@
             "open_issues": 102,
             "owner": "google-research",
             "repo": "albert",
-            "stars": 3275,
+            "stars": 3276,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -201,7 +201,7 @@
         {
           "node_type": "item",
           "title": "Looped Transformers for Length Generalization",
-          "description": "ICLR 2025 whole-stack arXiv · Code ★14",
+          "description": "ICLR 2025 whole-stack arXiv · Code ★15",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -222,7 +222,7 @@
         {
           "node_type": "item",
           "title": "🌟 Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach",
-          "description": "NeurIPS 2025 prelude-core-coda arXiv · Code ★987 · HF",
+          "description": "NeurIPS 2025 prelude-core-coda arXiv · Code ★988 · HF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -235,7 +235,7 @@
             "open_issues": 1,
             "owner": "seal-rg",
             "repo": "recurrent-pretraining",
-            "stars": 987,
+            "stars": 989,
             "topics": [
               "llms",
               "pretraining",
@@ -248,7 +248,7 @@
         {
           "node_type": "item",
           "title": "Hierarchical Reasoning Model",
-          "description": "2025 hierarchical arXiv · Code ★12,662",
+          "description": "2025 hierarchical arXiv · Code ★12,663",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -302,7 +302,7 @@
         {
           "node_type": "item",
           "title": "Less is More: Recursive Reasoning with Tiny Networks",
-          "description": "2025 hierarchical arXiv · Code ★6,553",
+          "description": "2025 hierarchical arXiv · Code ★6,554",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -350,7 +350,7 @@
         {
           "node_type": "item",
           "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
-          "description": "ICLR 2020 7,870 arXiv · Code ★3,274",
+          "description": "ICLR 2020 7,875 arXiv · Code ★3,275",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -363,7 +363,7 @@
             "open_issues": 102,
             "owner": "google-research",
             "repo": "albert",
-            "stars": 3275,
+            "stars": 3276,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -371,7 +371,7 @@
         {
           "node_type": "item",
           "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
-          "description": "ECCV 2020 4,418 arXiv · Code ★4,119",
+          "description": "ECCV 2020 4,427 arXiv · Code ★4,119",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -392,7 +392,7 @@
         {
           "node_type": "item",
           "title": "Universal Transformers",
-          "description": "ICLR 2019 1,171 arXiv · Code ★17,472",
+          "description": "ICLR 2019 1,174 arXiv · Code ★17,472",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -419,7 +419,7 @@
         {
           "node_type": "item",
           "title": "Deep Equilibrium Models",
-          "description": "NeurIPS 2019 1,068 arXiv · Code ★813",
+          "description": "NeurIPS 2019 1,071 arXiv · Code ★813",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -440,7 +440,7 @@
         {
           "node_type": "item",
           "title": "🌟 Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach",
-          "description": "NeurIPS 2025 514 arXiv · Code ★987 · HF",
+          "description": "NeurIPS 2025 520 arXiv · Code ★988 · HF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -453,7 +453,7 @@
             "open_issues": 1,
             "owner": "seal-rg",
             "repo": "recurrent-pretraining",
-            "stars": 987,
+            "stars": 989,
             "topics": [
               "llms",
               "pretraining",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T01:41:54.651Z",
+    "last_updated": "2026-11-01T01:18:32.266Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and selected technical blogs on Loop Models.",
@@ -547,7 +547,7 @@
       "id": 1219975226,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-10-30T11:37:03Z",
+      "last_commit": "2026-10-31T11:08:21Z",
       "open_issues": 0,
       "owner": "huskydoge",
       "repo": "Awesome-Loop-Models",
@@ -563,7 +563,7 @@
         "research-tool"
       ]
     },
-    "original_repository_sha": "6f3df2f03811d9b82f4186230ec97286c8dcc6af",
+    "original_repository_sha": "c9b4d4518422034bc8923e6c4bddea15541e8675",
     "enhanced_repository": "enhansome/enhansome-Awesome-Loop-Models",
     "enhanced_repository_description": null,
     "title": "Awesome Loop Models with stars"
