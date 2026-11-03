@@ -19,7 +19,7 @@
             "open_issues": 589,
             "owner": "tensorflow",
             "repo": "tensor2tensor",
-            "stars": 17472,
+            "stars": 17471,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -33,7 +33,7 @@
         {
           "node_type": "item",
           "title": "Deep Equilibrium Models",
-          "description": "NeurIPS 2019 implicit-fixed-point arXiv · Code ★813",
+          "description": "NeurIPS 2019 implicit-fixed-point arXiv · Code ★814",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -46,7 +46,7 @@
             "open_issues": 9,
             "owner": "locuslab",
             "repo": "deq",
-            "stars": 813,
+            "stars": 814,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -75,7 +75,7 @@
         {
           "node_type": "item",
           "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
-          "description": "ECCV 2020 partial arXiv · Code ★4,119",
+          "description": "ECCV 2020 partial arXiv · Code ★4,121",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -88,7 +88,7 @@
             "open_issues": 77,
             "owner": "princeton-vl",
             "repo": "RAFT",
-            "stars": 4119,
+            "stars": 4121,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -248,7 +248,7 @@
         {
           "node_type": "item",
           "title": "Hierarchical Reasoning Model",
-          "description": "2025 hierarchical arXiv · Code ★12,665",
+          "description": "2025 hierarchical arXiv · Code ★12,666",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -302,7 +302,7 @@
         {
           "node_type": "item",
           "title": "Less is More: Recursive Reasoning with Tiny Networks",
-          "description": "2025 hierarchical arXiv · Code ★6,554",
+          "description": "2025 hierarchical arXiv · Code ★6,552",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -315,7 +315,7 @@
             "open_issues": 40,
             "owner": "SamsungSAILMontreal",
             "repo": "TinyRecursiveModels",
-            "stars": 6552,
+            "stars": 6551,
             "topics": []
           },
           "first_seen": "2026-10-13T03:05:22.404Z"
@@ -350,7 +350,7 @@
         {
           "node_type": "item",
           "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
-          "description": "ICLR 2020 7,881 arXiv · Code ★3,276",
+          "description": "ICLR 2020 7,884 arXiv · Code ★3,276",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -371,7 +371,7 @@
         {
           "node_type": "item",
           "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
-          "description": "ECCV 2020 4,433 arXiv · Code ★4,119",
+          "description": "ECCV 2020 4,433 arXiv · Code ★4,121",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -384,7 +384,7 @@
             "open_issues": 77,
             "owner": "princeton-vl",
             "repo": "RAFT",
-            "stars": 4119,
+            "stars": 4121,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -392,7 +392,7 @@
         {
           "node_type": "item",
           "title": "Universal Transformers",
-          "description": "ICLR 2019 1,175 arXiv · Code ★17,472",
+          "description": "ICLR 2019 1,176 arXiv · Code ★17,472",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -405,7 +405,7 @@
             "open_issues": 589,
             "owner": "tensorflow",
             "repo": "tensor2tensor",
-            "stars": 17472,
+            "stars": 17471,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -419,7 +419,7 @@
         {
           "node_type": "item",
           "title": "Deep Equilibrium Models",
-          "description": "NeurIPS 2019 1,074 arXiv · Code ★813",
+          "description": "NeurIPS 2019 1,075 arXiv · Code ★814",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -432,7 +432,7 @@
             "open_issues": 9,
             "owner": "locuslab",
             "repo": "deq",
-            "stars": 813,
+            "stars": 814,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T01:38:04.465Z",
+    "last_updated": "2026-11-03T03:32:03.515Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and selected technical blogs on Loop Models.",
@@ -547,11 +547,11 @@
       "id": 1219975226,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-11-01T12:03:41Z",
-      "open_issues": 0,
+      "last_commit": "2026-11-03T02:08:20Z",
+      "open_issues": 2,
       "owner": "huskydoge",
       "repo": "Awesome-Loop-Models",
-      "stars": 474,
+      "stars": 476,
       "topics": [
         "attractors",
         "awesome-list",
@@ -563,7 +563,7 @@
         "research-tool"
       ]
     },
-    "original_repository_sha": "4a0edf2731e4e195cbb0d7cdbe9f94e0374d9763",
+    "original_repository_sha": "0c32197703cb203b30b00398ebcd2f27e9658602",
     "enhanced_repository": "enhansome/enhansome-Awesome-Loop-Models",
     "enhanced_repository_description": null,
     "title": "Awesome Loop Models with stars"
