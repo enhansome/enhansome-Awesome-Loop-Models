@@ -54,7 +54,7 @@
         {
           "node_type": "item",
           "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
-          "description": "ICLR 2020 whole-stack arXiv · Code ★3,277",
+          "description": "ICLR 2020 whole-stack arXiv · Code ★3,278",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -67,7 +67,7 @@
             "open_issues": 102,
             "owner": "google-research",
             "repo": "albert",
-            "stars": 3277,
+            "stars": 3278,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -248,7 +248,7 @@
         {
           "node_type": "item",
           "title": "Hierarchical Reasoning Model",
-          "description": "2025 hierarchical arXiv · Code ★12,665",
+          "description": "2025 hierarchical arXiv · Code ★12,667",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -261,7 +261,7 @@
             "open_issues": 75,
             "owner": "sapientinc",
             "repo": "HRM",
-            "stars": 12666,
+            "stars": 12667,
             "topics": [
               "brain-inspired-ai",
               "deep-learning",
@@ -274,7 +274,7 @@
         {
           "node_type": "item",
           "title": "Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive Token-Level Computation",
-          "description": "NeurIPS 2025 whole-stack arXiv · Code ★649",
+          "description": "NeurIPS 2025 whole-stack arXiv · Code ★650",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -287,7 +287,7 @@
             "open_issues": 0,
             "owner": "raymin0223",
             "repo": "mixture_of_recursions",
-            "stars": 649,
+            "stars": 650,
             "topics": [
               "adaptive-computation",
               "early-exiting",
@@ -315,7 +315,7 @@
             "open_issues": 40,
             "owner": "SamsungSAILMontreal",
             "repo": "TinyRecursiveModels",
-            "stars": 6550,
+            "stars": 6549,
             "topics": []
           },
           "first_seen": "2026-10-13T03:05:22.404Z"
@@ -440,7 +440,7 @@
         {
           "node_type": "item",
           "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
-          "description": "ICLR 2020 7,908 arXiv · Code ★3,277",
+          "description": "ICLR 2020 7,908 arXiv · Code ★3,278",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -453,7 +453,7 @@
             "open_issues": 102,
             "owner": "google-research",
             "repo": "albert",
-            "stars": 3277,
+            "stars": 3278,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -629,7 +629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T01:37:23.349Z",
+    "last_updated": "2026-11-09T01:47:55.405Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and selected technical blogs on Loop Models.",
@@ -637,8 +637,8 @@
       "id": 1219975226,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-11-08T00:30:00Z",
-      "open_issues": 0,
+      "last_commit": "2026-11-08T12:09:40Z",
+      "open_issues": 1,
       "owner": "huskydoge",
       "repo": "Awesome-Loop-Models",
       "stars": 478,
@@ -653,7 +653,7 @@
         "research-tool"
       ]
     },
-    "original_repository_sha": "a52390fc292f8e87d6e3abbb07af14da0674832f",
+    "original_repository_sha": "590a718eb2c39e3c880a7242be9710bce408d3af",
     "enhanced_repository": "enhansome/enhansome-Awesome-Loop-Models",
     "enhanced_repository_description": null,
     "title": "Awesome Loop Models with stars"
