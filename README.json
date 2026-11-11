@@ -19,7 +19,7 @@
             "open_issues": 589,
             "owner": "tensorflow",
             "repo": "tensor2tensor",
-            "stars": 17472,
+            "stars": 17473,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -88,7 +88,7 @@
             "open_issues": 77,
             "owner": "princeton-vl",
             "repo": "RAFT",
-            "stars": 4124,
+            "stars": 4125,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -261,7 +261,7 @@
             "open_issues": 75,
             "owner": "sapientinc",
             "repo": "HRM",
-            "stars": 12667,
+            "stars": 12668,
             "topics": [
               "brain-inspired-ai",
               "deep-learning",
@@ -274,7 +274,7 @@
         {
           "node_type": "item",
           "title": "Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive Token-Level Computation",
-          "description": "NeurIPS 2025 whole-stack arXiv · Code ★650",
+          "description": "NeurIPS 2025 whole-stack arXiv · Code ★651",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -287,7 +287,7 @@
             "open_issues": 0,
             "owner": "raymin0223",
             "repo": "mixture_of_recursions",
-            "stars": 650,
+            "stars": 651,
             "topics": [
               "adaptive-computation",
               "early-exiting",
@@ -315,7 +315,7 @@
             "open_issues": 40,
             "owner": "SamsungSAILMontreal",
             "repo": "TinyRecursiveModels",
-            "stars": 6548,
+            "stars": 6549,
             "topics": []
           },
           "first_seen": "2026-10-13T03:05:22.404Z"
@@ -349,7 +349,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "arXiv · Code",
+          "title": "arXiv · Code ★1",
           "description": "Project Loopback Transformer: Towards a Unified View of Residual Looped Transformers §4.2",
           "children": [],
           "repo_info": {
@@ -363,14 +363,14 @@
             "open_issues": 0,
             "owner": "yancyou",
             "repo": "Loopback",
-            "stars": 0,
+            "stars": 2,
             "topics": []
           },
           "first_seen": "2026-11-10T04:12:33.847Z"
         },
         {
           "node_type": "item",
-          "title": "arXiv · Code ★6",
+          "title": "arXiv · Code ★16",
           "description": "ARLoop: Fully-Open Pre-trained Looped Transformers with Attention Residuals §4.2",
           "children": [],
           "repo_info": {
@@ -384,7 +384,7 @@
             "open_issues": 0,
             "owner": "OSU-NLP-Group",
             "repo": "ARLoop",
-            "stars": 7,
+            "stars": 21,
             "topics": []
           },
           "first_seen": "2026-11-06T02:37:23.933Z"
@@ -440,7 +440,7 @@
         {
           "node_type": "item",
           "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
-          "description": "ECCV 2020 4,477 arXiv · Code ★4,124",
+          "description": "ECCV 2020 4,482 arXiv · Code ★4,124",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -453,7 +453,7 @@
             "open_issues": 77,
             "owner": "princeton-vl",
             "repo": "RAFT",
-            "stars": 4124,
+            "stars": 4125,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -461,7 +461,7 @@
         {
           "node_type": "item",
           "title": "Universal Transformers",
-          "description": "ICLR 2019 1,201 arXiv · Code ★17,472",
+          "description": "ICLR 2019 1,202 arXiv · Code ★17,472",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -474,7 +474,7 @@
             "open_issues": 589,
             "owner": "tensorflow",
             "repo": "tensor2tensor",
-            "stars": 17472,
+            "stars": 17473,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -488,7 +488,7 @@
         {
           "node_type": "item",
           "title": "Deep Equilibrium Models",
-          "description": "NeurIPS 2019 1,091 arXiv · Code ★814",
+          "description": "NeurIPS 2019 1,092 arXiv · Code ★814",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -509,7 +509,7 @@
         {
           "node_type": "item",
           "title": "🌟 Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach",
-          "description": "NeurIPS 2025 545 arXiv · Code ★991 · HF",
+          "description": "NeurIPS 2025 547 arXiv · Code ★991 · HF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T04:12:33.847Z",
+    "last_updated": "2026-11-11T02:01:19.214Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and selected technical blogs on Loop Models.",
@@ -616,11 +616,11 @@
       "id": 1219975226,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-11-10T02:03:49Z",
+      "last_commit": "2026-11-10T13:45:22Z",
       "open_issues": 2,
       "owner": "huskydoge",
       "repo": "Awesome-Loop-Models",
-      "stars": 479,
+      "stars": 480,
       "topics": [
         "attractors",
         "awesome-list",
@@ -632,7 +632,7 @@
         "research-tool"
       ]
     },
-    "original_repository_sha": "c1a3ba925937e831b241d6fc904a089286132f56",
+    "original_repository_sha": "90ab8975639a1a66545946c770db64abcb009271",
     "enhanced_repository": "enhansome/enhansome-Awesome-Loop-Models",
     "enhanced_repository_description": null,
     "title": "Awesome Loop Models with stars"
