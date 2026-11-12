@@ -19,7 +19,7 @@
             "open_issues": 589,
             "owner": "tensorflow",
             "repo": "tensor2tensor",
-            "stars": 17473,
+            "stars": 17472,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -75,7 +75,7 @@
         {
           "node_type": "item",
           "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
-          "description": "ECCV 2020 partial arXiv · Code ★4,124",
+          "description": "ECCV 2020 partial arXiv · Code ★4,126",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -88,7 +88,7 @@
             "open_issues": 77,
             "owner": "princeton-vl",
             "repo": "RAFT",
-            "stars": 4125,
+            "stars": 4126,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -248,7 +248,7 @@
         {
           "node_type": "item",
           "title": "Hierarchical Reasoning Model",
-          "description": "2025 hierarchical arXiv · Code ★12,667",
+          "description": "2025 hierarchical arXiv · Code ★12,668",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -261,7 +261,7 @@
             "open_issues": 75,
             "owner": "sapientinc",
             "repo": "HRM",
-            "stars": 12668,
+            "stars": 12667,
             "topics": [
               "brain-inspired-ai",
               "deep-learning",
@@ -287,7 +287,7 @@
             "open_issues": 0,
             "owner": "raymin0223",
             "repo": "mixture_of_recursions",
-            "stars": 651,
+            "stars": 652,
             "topics": [
               "adaptive-computation",
               "early-exiting",
@@ -302,7 +302,7 @@
         {
           "node_type": "item",
           "title": "Less is More: Recursive Reasoning with Tiny Networks",
-          "description": "2025 hierarchical arXiv · Code ★6,548",
+          "description": "2025 hierarchical arXiv · Code ★6,549",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -315,7 +315,7 @@
             "open_issues": 40,
             "owner": "SamsungSAILMontreal",
             "repo": "TinyRecursiveModels",
-            "stars": 6549,
+            "stars": 6548,
             "topics": []
           },
           "first_seen": "2026-10-13T03:05:22.404Z"
@@ -349,7 +349,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "arXiv · Code ★1",
+          "title": "arXiv · Code ★2",
           "description": "Project Loopback Transformer: Towards a Unified View of Residual Looped Transformers §4.2",
           "children": [],
           "repo_info": {
@@ -370,7 +370,7 @@
         },
         {
           "node_type": "item",
-          "title": "arXiv · Code ★16",
+          "title": "arXiv · Code ★22",
           "description": "ARLoop: Fully-Open Pre-trained Looped Transformers with Attention Residuals §4.2",
           "children": [],
           "repo_info": {
@@ -384,7 +384,7 @@
             "open_issues": 0,
             "owner": "OSU-NLP-Group",
             "repo": "ARLoop",
-            "stars": 21,
+            "stars": 23,
             "topics": []
           },
           "first_seen": "2026-11-06T02:37:23.933Z"
@@ -401,7 +401,7 @@
             "id": 1438033953,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T05:15:23Z",
+            "last_commit": "2026-11-11T05:42:13Z",
             "open_issues": 1,
             "owner": "mscheong01",
             "repo": "LoopVQ",
@@ -419,7 +419,7 @@
         {
           "node_type": "item",
           "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
-          "description": "ICLR 2020 7,910 arXiv · Code ★3,278",
+          "description": "ICLR 2020 7,914 arXiv · Code ★3,278",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -440,7 +440,7 @@
         {
           "node_type": "item",
           "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
-          "description": "ECCV 2020 4,482 arXiv · Code ★4,124",
+          "description": "ECCV 2020 4,498 arXiv · Code ★4,126",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -453,7 +453,7 @@
             "open_issues": 77,
             "owner": "princeton-vl",
             "repo": "RAFT",
-            "stars": 4125,
+            "stars": 4126,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -461,7 +461,7 @@
         {
           "node_type": "item",
           "title": "Universal Transformers",
-          "description": "ICLR 2019 1,202 arXiv · Code ★17,472",
+          "description": "ICLR 2019 1,204 arXiv · Code ★17,472",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -474,7 +474,7 @@
             "open_issues": 589,
             "owner": "tensorflow",
             "repo": "tensor2tensor",
-            "stars": 17473,
+            "stars": 17472,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -488,7 +488,7 @@
         {
           "node_type": "item",
           "title": "Deep Equilibrium Models",
-          "description": "NeurIPS 2019 1,092 arXiv · Code ★814",
+          "description": "NeurIPS 2019 1,095 arXiv · Code ★814",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -509,7 +509,7 @@
         {
           "node_type": "item",
           "title": "🌟 Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach",
-          "description": "NeurIPS 2025 547 arXiv · Code ★991 · HF",
+          "description": "NeurIPS 2025 549 arXiv · Code ★991 · HF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T02:01:19.214Z",
+    "last_updated": "2026-11-12T03:10:17.047Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and selected technical blogs on Loop Models.",
@@ -616,8 +616,8 @@
       "id": 1219975226,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-11-10T13:45:22Z",
-      "open_issues": 2,
+      "last_commit": "2026-11-12T02:05:00Z",
+      "open_issues": 4,
       "owner": "huskydoge",
       "repo": "Awesome-Loop-Models",
       "stars": 480,
@@ -632,7 +632,7 @@
         "research-tool"
       ]
     },
-    "original_repository_sha": "90ab8975639a1a66545946c770db64abcb009271",
+    "original_repository_sha": "94ba727181321e82b00822ca70c56d34f67a8720",
     "enhanced_repository": "enhansome/enhansome-Awesome-Loop-Models",
     "enhanced_repository_description": null,
     "title": "Awesome Loop Models with stars"
