@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Universal Transformers",
-          "description": "ICLR 2019 whole-stack arXiv · Code ★17,470",
+          "description": "ICLR 2019 whole-stack arXiv · Code ★17,471",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -19,7 +19,7 @@
             "open_issues": 589,
             "owner": "tensorflow",
             "repo": "tensor2tensor",
-            "stars": 17472,
+            "stars": 17471,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -54,7 +54,7 @@
         {
           "node_type": "item",
           "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
-          "description": "ICLR 2020 whole-stack arXiv · Code ★3,278",
+          "description": "ICLR 2020 whole-stack arXiv · Code ★3,277",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -67,7 +67,7 @@
             "open_issues": 102,
             "owner": "google-research",
             "repo": "albert",
-            "stars": 3278,
+            "stars": 3277,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -75,7 +75,7 @@
         {
           "node_type": "item",
           "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
-          "description": "ECCV 2020 partial arXiv · Code ★4,127",
+          "description": "ECCV 2020 partial arXiv · Code ★4,128",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -88,7 +88,7 @@
             "open_issues": 77,
             "owner": "princeton-vl",
             "repo": "RAFT",
-            "stars": 4127,
+            "stars": 4128,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -248,7 +248,7 @@
         {
           "node_type": "item",
           "title": "Hierarchical Reasoning Model",
-          "description": "2025 hierarchical arXiv · Code ★12,667",
+          "description": "2025 hierarchical arXiv · Code ★12,668",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -261,7 +261,7 @@
             "open_issues": 75,
             "owner": "sapientinc",
             "repo": "HRM",
-            "stars": 12667,
+            "stars": 12668,
             "topics": [
               "brain-inspired-ai",
               "deep-learning",
@@ -302,7 +302,7 @@
         {
           "node_type": "item",
           "title": "Less is More: Recursive Reasoning with Tiny Networks",
-          "description": "2025 hierarchical arXiv · Code ★6,547",
+          "description": "2025 hierarchical arXiv · Code ★6,546",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -349,6 +349,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "arXiv · Code",
+          "description": "Project Attention Is Only as Good as Its Witnesses: When Higher-Order Layers Help, and When They Do Not §3.2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Attention Is Only as Good as Its Witnesses: the paper, a tutorial, and a live demo of higher-order attention layers that learn graph search",
+            "homepage": "https://neovand.github.io/witnesses",
+            "id": 1450293691,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-09T06:08:40Z",
+            "open_issues": 0,
+            "owner": "NeoVand",
+            "repo": "witnesses",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-11-16T02:16:34.954Z"
+        },
+        {
+          "node_type": "item",
+          "title": "arXiv · Code",
+          "description": "Project Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model §4.5",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The official implementation for Energy-Based Reasoners: Your Recurrent Reasoner Should be an Energy-Based Model.",
+            "homepage": "https://energy-based-reasoners.github.io/",
+            "id": 1438961343,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-09T16:07:45Z",
+            "open_issues": 1,
+            "owner": "wwillchen",
+            "repo": "ebr",
+            "stars": 19,
+            "topics": []
+          },
+          "first_seen": "2026-11-16T02:16:34.954Z"
+        },
+        {
+          "node_type": "item",
           "title": "arXiv · Code ★3",
           "description": "Project Loopback Transformer: Towards a Unified View of Residual Looped Transformers §4.2",
           "children": [],
@@ -367,48 +409,6 @@
             "topics": []
           },
           "first_seen": "2026-11-10T04:12:33.847Z"
-        },
-        {
-          "node_type": "item",
-          "title": "arXiv · Code ★25",
-          "description": "ARLoop: Fully-Open Pre-trained Looped Transformers with Attention Residuals §4.2",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Codebase for ARLoop paper.",
-            "homepage": null,
-            "id": 1437828171,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-11-10T02:26:46Z",
-            "open_issues": 0,
-            "owner": "OSU-NLP-Group",
-            "repo": "ARLoop",
-            "stars": 25,
-            "topics": []
-          },
-          "first_seen": "2026-11-06T02:37:23.933Z"
-        },
-        {
-          "node_type": "item",
-          "title": "arXiv · Code ★3",
-          "description": "LoopVQ: Sub 1-bit KV Cache Quantization for Looped Transformers §7.2",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Official code for paper \"LoopVQ: Sub 1-bit KV Cache Quantization for Looped Transformers\"",
-            "homepage": null,
-            "id": 1438033953,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-11-11T05:42:13Z",
-            "open_issues": 1,
-            "owner": "mscheong01",
-            "repo": "LoopVQ",
-            "stars": 3,
-            "topics": []
-          },
-          "first_seen": "2026-11-06T02:37:23.933Z"
         }
       ],
       "title": "🆕 Latest additions"
@@ -419,7 +419,7 @@
         {
           "node_type": "item",
           "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
-          "description": "ICLR 2020 7,925 arXiv · Code ★3,278",
+          "description": "ICLR 2020 7,931 arXiv · Code ★3,277",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -432,7 +432,7 @@
             "open_issues": 102,
             "owner": "google-research",
             "repo": "albert",
-            "stars": 3278,
+            "stars": 3277,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -440,7 +440,7 @@
         {
           "node_type": "item",
           "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
-          "description": "ECCV 2020 4,516 arXiv · Code ★4,127",
+          "description": "ECCV 2020 4,520 arXiv · Code ★4,128",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -453,7 +453,7 @@
             "open_issues": 77,
             "owner": "princeton-vl",
             "repo": "RAFT",
-            "stars": 4127,
+            "stars": 4128,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -461,7 +461,7 @@
         {
           "node_type": "item",
           "title": "Universal Transformers",
-          "description": "ICLR 2019 1,210 arXiv · Code ★17,470",
+          "description": "ICLR 2019 1,210 arXiv · Code ★17,471",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -474,7 +474,7 @@
             "open_issues": 589,
             "owner": "tensorflow",
             "repo": "tensor2tensor",
-            "stars": 17472,
+            "stars": 17471,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -535,7 +535,7 @@
         {
           "node_type": "item",
           "title": "Neural GPUs Learn Algorithms",
-          "description": "ICLR 2016 414 arXiv · Code ★145",
+          "description": "ICLR 2016 414 arXiv · Code ★144",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T02:00:12.600Z",
+    "last_updated": "2026-11-16T02:16:34.954Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and selected technical blogs on Loop Models.",
@@ -616,11 +616,11 @@
       "id": 1219975226,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-11-14T12:27:36Z",
-      "open_issues": 5,
+      "last_commit": "2026-11-16T02:05:59Z",
+      "open_issues": 1,
       "owner": "huskydoge",
       "repo": "Awesome-Loop-Models",
-      "stars": 484,
+      "stars": 486,
       "topics": [
         "attractors",
         "awesome-list",
@@ -632,7 +632,7 @@
         "research-tool"
       ]
     },
-    "original_repository_sha": "cd48657fa8bc56467baf6b0e0fcc78c65d1ddf35",
+    "original_repository_sha": "6aa43316c77adc933d118a5e9f8df65ed468dcdc",
     "enhanced_repository": "enhansome/enhansome-Awesome-Loop-Models",
     "enhanced_repository_description": null,
     "title": "Awesome Loop Models with stars"
