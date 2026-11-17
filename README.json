@@ -222,7 +222,7 @@
         {
           "node_type": "item",
           "title": "🌟 Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach",
-          "description": "NeurIPS 2025 prelude-core-coda arXiv · Code ★991 · HF",
+          "description": "NeurIPS 2025 prelude-core-coda arXiv · Code ★992 · HF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -235,7 +235,7 @@
             "open_issues": 1,
             "owner": "seal-rg",
             "repo": "recurrent-pretraining",
-            "stars": 991,
+            "stars": 992,
             "topics": [
               "llms",
               "pretraining",
@@ -248,7 +248,7 @@
         {
           "node_type": "item",
           "title": "Hierarchical Reasoning Model",
-          "description": "2025 hierarchical arXiv · Code ★12,668",
+          "description": "2025 hierarchical arXiv · Code ★12,669",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -261,7 +261,7 @@
             "open_issues": 75,
             "owner": "sapientinc",
             "repo": "HRM",
-            "stars": 12668,
+            "stars": 12669,
             "topics": [
               "brain-inspired-ai",
               "deep-learning",
@@ -302,7 +302,7 @@
         {
           "node_type": "item",
           "title": "Less is More: Recursive Reasoning with Tiny Networks",
-          "description": "2025 hierarchical arXiv · Code ★6,546",
+          "description": "2025 hierarchical arXiv · Code ★6,544",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -315,7 +315,7 @@
             "open_issues": 40,
             "owner": "SamsungSAILMontreal",
             "repo": "TinyRecursiveModels",
-            "stars": 6546,
+            "stars": 6544,
             "topics": []
           },
           "first_seen": "2026-10-13T03:05:22.404Z"
@@ -350,6 +350,27 @@
         {
           "node_type": "item",
           "title": "arXiv · Code",
+          "description": "Folding Language Models into Themselves §5.3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Folding Language Models into Themselves",
+            "homepage": null,
+            "id": 1454008378,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-16T07:52:24Z",
+            "open_issues": 0,
+            "owner": "myboker",
+            "repo": "concertina",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T04:39:26.910Z"
+        },
+        {
+          "node_type": "item",
+          "title": "arXiv · Code",
           "description": "Project Attention Is Only as Good as Its Witnesses: When Higher-Order Layers Help, and When They Do Not §3.2",
           "children": [],
           "repo_info": {
@@ -370,7 +391,7 @@
         },
         {
           "node_type": "item",
-          "title": "arXiv · Code",
+          "title": "arXiv · Code ★19",
           "description": "Project Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model §4.5",
           "children": [],
           "repo_info": {
@@ -388,27 +409,6 @@
             "topics": []
           },
           "first_seen": "2026-11-16T02:16:34.954Z"
-        },
-        {
-          "node_type": "item",
-          "title": "arXiv · Code ★3",
-          "description": "Project Loopback Transformer: Towards a Unified View of Residual Looped Transformers §4.2",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Loopback Transformer: Towards a Unified View of Residual Looped Transformers",
-            "homepage": "https://yancyou.github.io/Loopback_page/",
-            "id": 1450006678,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-11-13T02:46:05Z",
-            "open_issues": 0,
-            "owner": "yancyou",
-            "repo": "Loopback",
-            "stars": 3,
-            "topics": []
-          },
-          "first_seen": "2026-11-10T04:12:33.847Z"
         }
       ],
       "title": "🆕 Latest additions"
@@ -419,7 +419,7 @@
         {
           "node_type": "item",
           "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
-          "description": "ICLR 2020 7,931 arXiv · Code ★3,277",
+          "description": "ICLR 2020 7,959 arXiv · Code ★3,277",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -440,7 +440,7 @@
         {
           "node_type": "item",
           "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
-          "description": "ECCV 2020 4,520 arXiv · Code ★4,128",
+          "description": "ECCV 2020 4,800 arXiv · Code ★4,128",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -461,7 +461,7 @@
         {
           "node_type": "item",
           "title": "Universal Transformers",
-          "description": "ICLR 2019 1,210 arXiv · Code ★17,471",
+          "description": "ICLR 2019 1,212 arXiv · Code ★17,471",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -509,7 +509,7 @@
         {
           "node_type": "item",
           "title": "🌟 Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach",
-          "description": "NeurIPS 2025 553 arXiv · Code ★991 · HF",
+          "description": "NeurIPS 2025 558 arXiv · Code ★992 · HF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -522,7 +522,7 @@
             "open_issues": 1,
             "owner": "seal-rg",
             "repo": "recurrent-pretraining",
-            "stars": 991,
+            "stars": 992,
             "topics": [
               "llms",
               "pretraining",
@@ -585,6 +585,27 @@
         {
           "node_type": "item",
           "title": "Read · Code",
+          "description": "LLM Neuroanatomy: How I Topped the LLM Leaderboard Without Changing a Single Weight Personal Blog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1189791537,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-11-14T21:50:27Z",
+            "open_issues": 4,
+            "owner": "dnhkng",
+            "repo": "RYS",
+            "stars": 90,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T04:39:26.910Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Read · Code",
           "description": "Looped-GPT: Looping During Pre-training improves Generalization Personal Blog",
           "children": [],
           "repo_info": {
@@ -598,7 +619,7 @@
             "open_issues": 0,
             "owner": "sanyalsunny111",
             "repo": "Looped-GPT",
-            "stars": 27,
+            "stars": 28,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -608,7 +629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T02:16:34.954Z",
+    "last_updated": "2026-11-17T04:39:26.910Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and selected technical blogs on Loop Models.",
@@ -616,7 +637,7 @@
       "id": 1219975226,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-11-16T02:05:59Z",
+      "last_commit": "2026-11-17T02:26:31Z",
       "open_issues": 1,
       "owner": "huskydoge",
       "repo": "Awesome-Loop-Models",
@@ -632,7 +653,7 @@
         "research-tool"
       ]
     },
-    "original_repository_sha": "6aa43316c77adc933d118a5e9f8df65ed468dcdc",
+    "original_repository_sha": "2d283a3f2128ac74bfcdbb2fecfbd53ffcef9ef3",
     "enhanced_repository": "enhansome/enhansome-Awesome-Loop-Models",
     "enhanced_repository_description": null,
     "title": "Awesome Loop Models with stars"
