@@ -248,7 +248,7 @@
         {
           "node_type": "item",
           "title": "Hierarchical Reasoning Model",
-          "description": "2025 hierarchical arXiv · Code ★12,669",
+          "description": "2025 hierarchical arXiv · Code ★12,670",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -345,60 +345,12 @@
       "title": "🌟 Start here"
     },
     {
-      "description": "A daily watch adds new arXiv papers. The browser has every paper and each day's briefing.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "arXiv · Code ★1",
-          "description": "Folding Language Models into Themselves §5.3",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Folding Language Models into Themselves",
-            "homepage": null,
-            "id": 1454008378,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-11-16T07:52:24Z",
-            "open_issues": 0,
-            "owner": "myboker",
-            "repo": "concertina",
-            "stars": 1,
-            "topics": []
-          },
-          "first_seen": "2026-11-17T04:39:26.910Z"
-        },
-        {
-          "node_type": "item",
-          "title": "arXiv · Code",
-          "description": "Project Attention Is Only as Good as Its Witnesses: When Higher-Order Layers Help, and When They Do Not §3.2",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Attention Is Only as Good as Its Witnesses: the paper, a tutorial, and a live demo of higher-order attention layers that learn graph search",
-            "homepage": "https://neovand.github.io/witnesses",
-            "id": 1450293691,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-11-09T06:08:40Z",
-            "open_issues": 0,
-            "owner": "NeoVand",
-            "repo": "witnesses",
-            "stars": 0,
-            "topics": []
-          },
-          "first_seen": "2026-11-16T02:16:34.954Z"
-        }
-      ],
-      "title": "🆕 Latest additions"
-    },
-    {
       "description": null,
       "items": [
         {
           "node_type": "item",
           "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
-          "description": "ICLR 2020 7,967 arXiv · Code ★3,277",
+          "description": "ICLR 2020 7,975 arXiv · Code ★3,277",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -419,7 +371,7 @@
         {
           "node_type": "item",
           "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
-          "description": "ECCV 2020 4,806 arXiv · Code ★4,129",
+          "description": "ECCV 2020 4,808 arXiv · Code ★4,129",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -440,7 +392,7 @@
         {
           "node_type": "item",
           "title": "Universal Transformers",
-          "description": "ICLR 2019 1,221 arXiv · Code ★17,473",
+          "description": "ICLR 2019 1,224 arXiv · Code ★17,473",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -488,7 +440,7 @@
         {
           "node_type": "item",
           "title": "🌟 Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach",
-          "description": "NeurIPS 2025 562 arXiv · Code ★992 · HF",
+          "description": "NeurIPS 2025 566 arXiv · Code ★992 · HF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -608,7 +560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T03:45:23.313Z",
+    "last_updated": "2026-11-19T03:42:56.077Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and selected technical blogs on Loop Models.",
@@ -616,11 +568,11 @@
       "id": 1219975226,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-11-18T02:40:43Z",
-      "open_issues": 1,
+      "last_commit": "2026-11-19T02:21:24Z",
+      "open_issues": 2,
       "owner": "huskydoge",
       "repo": "Awesome-Loop-Models",
-      "stars": 486,
+      "stars": 488,
       "topics": [
         "attractors",
         "awesome-list",
@@ -632,7 +584,7 @@
         "research-tool"
       ]
     },
-    "original_repository_sha": "2489a059b355bf526138015d1bbf3a46f5d3217d",
+    "original_repository_sha": "54dc185480e2372040162562076c6ac6793aaabe",
     "enhanced_repository": "enhansome/enhansome-Awesome-Loop-Models",
     "enhanced_repository_description": null,
     "title": "Awesome Loop Models with stars"
