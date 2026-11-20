@@ -54,7 +54,7 @@
         {
           "node_type": "item",
           "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
-          "description": "ICLR 2020 whole-stack arXiv · Code ★3,277",
+          "description": "ICLR 2020 whole-stack arXiv · Code ★3,276",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -67,7 +67,7 @@
             "open_issues": 102,
             "owner": "google-research",
             "repo": "albert",
-            "stars": 3277,
+            "stars": 3276,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -248,7 +248,7 @@
         {
           "node_type": "item",
           "title": "Hierarchical Reasoning Model",
-          "description": "2025 hierarchical arXiv · Code ★12,670",
+          "description": "2025 hierarchical arXiv · Code ★12,669",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -261,7 +261,7 @@
             "open_issues": 75,
             "owner": "sapientinc",
             "repo": "HRM",
-            "stars": 12670,
+            "stars": 12669,
             "topics": [
               "brain-inspired-ai",
               "deep-learning",
@@ -302,7 +302,7 @@
         {
           "node_type": "item",
           "title": "Less is More: Recursive Reasoning with Tiny Networks",
-          "description": "2025 hierarchical arXiv · Code ★6,544",
+          "description": "2025 hierarchical arXiv · Code ★6,543",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -315,7 +315,7 @@
             "open_issues": 40,
             "owner": "SamsungSAILMontreal",
             "repo": "TinyRecursiveModels",
-            "stars": 6544,
+            "stars": 6543,
             "topics": []
           },
           "first_seen": "2026-10-13T03:05:22.404Z"
@@ -350,7 +350,7 @@
         {
           "node_type": "item",
           "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
-          "description": "ICLR 2020 7,975 arXiv · Code ★3,277",
+          "description": "ICLR 2020 8,003 arXiv · Code ★3,276",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -363,7 +363,7 @@
             "open_issues": 102,
             "owner": "google-research",
             "repo": "albert",
-            "stars": 3277,
+            "stars": 3276,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -371,7 +371,7 @@
         {
           "node_type": "item",
           "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
-          "description": "ECCV 2020 4,808 arXiv · Code ★4,129",
+          "description": "ECCV 2020 4,810 arXiv · Code ★4,129",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -392,7 +392,7 @@
         {
           "node_type": "item",
           "title": "Universal Transformers",
-          "description": "ICLR 2019 1,224 arXiv · Code ★17,473",
+          "description": "ICLR 2019 1,229 arXiv · Code ★17,473",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -419,7 +419,7 @@
         {
           "node_type": "item",
           "title": "Deep Equilibrium Models",
-          "description": "NeurIPS 2019 1,101 arXiv · Code ★814",
+          "description": "NeurIPS 2019 1,102 arXiv · Code ★814",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -440,7 +440,7 @@
         {
           "node_type": "item",
           "title": "🌟 Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach",
-          "description": "NeurIPS 2025 566 arXiv · Code ★992 · HF",
+          "description": "NeurIPS 2025 572 arXiv · Code ★992 · HF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -466,7 +466,7 @@
         {
           "node_type": "item",
           "title": "Neural GPUs Learn Algorithms",
-          "description": "ICLR 2016 414 arXiv · Code ★144",
+          "description": "ICLR 2016 415 arXiv · Code ★144",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -560,7 +560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T03:42:56.077Z",
+    "last_updated": "2026-11-20T03:35:54.356Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and selected technical blogs on Loop Models.",
@@ -568,8 +568,8 @@
       "id": 1219975226,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-11-19T02:21:24Z",
-      "open_issues": 2,
+      "last_commit": "2026-11-20T03:01:39Z",
+      "open_issues": 3,
       "owner": "huskydoge",
       "repo": "Awesome-Loop-Models",
       "stars": 488,
@@ -584,7 +584,7 @@
         "research-tool"
       ]
     },
-    "original_repository_sha": "54dc185480e2372040162562076c6ac6793aaabe",
+    "original_repository_sha": "3c85eb0e16397ea6d51822a647e5ba0416aa038b",
     "enhanced_repository": "enhansome/enhansome-Awesome-Loop-Models",
     "enhanced_repository_description": null,
     "title": "Awesome Loop Models with stars"
