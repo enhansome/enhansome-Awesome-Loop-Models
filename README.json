@@ -75,7 +75,7 @@
         {
           "node_type": "item",
           "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
-          "description": "ECCV 2020 partial arXiv · Code ★4,129",
+          "description": "ECCV 2020 partial arXiv · Code ★4,131",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -88,7 +88,7 @@
             "open_issues": 77,
             "owner": "princeton-vl",
             "repo": "RAFT",
-            "stars": 4129,
+            "stars": 4131,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -235,7 +235,7 @@
             "open_issues": 1,
             "owner": "seal-rg",
             "repo": "recurrent-pretraining",
-            "stars": 992,
+            "stars": 993,
             "topics": [
               "llms",
               "pretraining",
@@ -261,7 +261,7 @@
             "open_issues": 75,
             "owner": "sapientinc",
             "repo": "HRM",
-            "stars": 12669,
+            "stars": 12670,
             "topics": [
               "brain-inspired-ai",
               "deep-learning",
@@ -302,7 +302,7 @@
         {
           "node_type": "item",
           "title": "Less is More: Recursive Reasoning with Tiny Networks",
-          "description": "2025 hierarchical arXiv · Code ★6,543",
+          "description": "2025 hierarchical arXiv · Code ★6,544",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -315,7 +315,7 @@
             "open_issues": 40,
             "owner": "SamsungSAILMontreal",
             "repo": "TinyRecursiveModels",
-            "stars": 6543,
+            "stars": 6546,
             "topics": []
           },
           "first_seen": "2026-10-13T03:05:22.404Z"
@@ -371,7 +371,7 @@
         {
           "node_type": "item",
           "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
-          "description": "ECCV 2020 4,810 arXiv · Code ★4,129",
+          "description": "ECCV 2020 4,810 arXiv · Code ★4,131",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -384,7 +384,7 @@
             "open_issues": 77,
             "owner": "princeton-vl",
             "repo": "RAFT",
-            "stars": 4129,
+            "stars": 4131,
             "topics": []
           },
           "first_seen": "2026-09-30T01:21:53.537Z"
@@ -453,7 +453,7 @@
             "open_issues": 1,
             "owner": "seal-rg",
             "repo": "recurrent-pretraining",
-            "stars": 992,
+            "stars": 993,
             "topics": [
               "llms",
               "pretraining",
@@ -560,7 +560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T03:35:54.356Z",
+    "last_updated": "2026-11-21T03:18:39.858Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and selected technical blogs on Loop Models.",
@@ -568,11 +568,11 @@
       "id": 1219975226,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-11-20T03:01:39Z",
+      "last_commit": "2026-11-20T14:18:55Z",
       "open_issues": 3,
       "owner": "huskydoge",
       "repo": "Awesome-Loop-Models",
-      "stars": 488,
+      "stars": 489,
       "topics": [
         "attractors",
         "awesome-list",
@@ -584,7 +584,7 @@
         "research-tool"
       ]
     },
-    "original_repository_sha": "3c85eb0e16397ea6d51822a647e5ba0416aa038b",
+    "original_repository_sha": "647d59fea56afd232f79eb89ee2b34e8716b7d2b",
     "enhanced_repository": "enhansome/enhansome-Awesome-Loop-Models",
     "enhanced_repository_description": null,
     "title": "Awesome Loop Models with stars"
