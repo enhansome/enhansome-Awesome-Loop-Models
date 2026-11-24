@@ -75,7 +75,7 @@
         {
           "node_type": "item",
           "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
-          "description": "ECCV 2020 partial arXiv · Code ★4,131",
+          "description": "ECCV 2020 partial arXiv · Code ★4,132",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -302,7 +302,7 @@
         {
           "node_type": "item",
           "title": "Less is More: Recursive Reasoning with Tiny Networks",
-          "description": "2025 hierarchical arXiv · Code ★6,547",
+          "description": "2025 hierarchical arXiv · Code ★6,546",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -315,7 +315,7 @@
             "open_issues": 40,
             "owner": "SamsungSAILMontreal",
             "repo": "TinyRecursiveModels",
-            "stars": 6547,
+            "stars": 6546,
             "topics": []
           },
           "first_seen": "2026-10-13T03:05:22.404Z"
@@ -347,6 +347,37 @@
     {
       "description": "A daily watch adds new arXiv papers. The browser has every paper and each day's briefing.",
       "items": [
+        {
+          "node_type": "item",
+          "title": "arXiv · Code ★8",
+          "description": "Project Circular Predictive Coding Unlocks Effective Depth §5.1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Circular Predictive Coding: closing a shallow predictive coding network into a loop turns relaxation time into effective depth; trained with equilibrium propagation (JAX).",
+            "homepage": "https://rel-int.github.io/CircularEP/",
+            "id": 1464463574,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-11-23T10:52:18Z",
+            "open_issues": 0,
+            "owner": "rel-int",
+            "repo": "CircularEP",
+            "stars": 8,
+            "topics": [
+              "cifar10",
+              "deep-equilibrium-models",
+              "energy-based-models",
+              "equilibrium-propagation",
+              "imagenet32",
+              "jax",
+              "local-learning",
+              "predictive-coding",
+              "sudoku"
+            ]
+          },
+          "first_seen": "2026-11-24T06:11:44.651Z"
+        },
         {
           "node_type": "item",
           "title": "arXiv · Code ★4",
@@ -391,7 +422,7 @@
         },
         {
           "node_type": "item",
-          "title": "arXiv · Code ★2",
+          "title": "arXiv · Code ★3",
           "description": "HF · Project Late Entry in Looped Language Models §7.3",
           "children": [],
           "repo_info": {
@@ -405,14 +436,14 @@
             "open_issues": 1,
             "owner": "Xalp",
             "repo": "LateComer",
-            "stars": 2,
+            "stars": 3,
             "topics": []
           },
           "first_seen": "2026-11-23T02:55:28.185Z"
         },
         {
           "node_type": "item",
-          "title": "arXiv · Code ★2",
+          "title": "arXiv · Code ★3",
           "description": "LoopCache: Accelerating Long-Context Self-Speculative Decoding for Looped Transformers §7.3",
           "children": [],
           "repo_info": {
@@ -426,7 +457,7 @@
             "open_issues": 0,
             "owner": "zZzZ9zZ9",
             "repo": "LoopCache",
-            "stars": 2,
+            "stars": 3,
             "topics": []
           },
           "first_seen": "2026-11-23T02:55:28.185Z"
@@ -440,7 +471,7 @@
         {
           "node_type": "item",
           "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
-          "description": "ICLR 2020 8,404 arXiv · Code ★3,276",
+          "description": "ICLR 2020 8,430 arXiv · Code ★3,276",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -461,7 +492,7 @@
         {
           "node_type": "item",
           "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
-          "description": "ECCV 2020 4,886 arXiv · Code ★4,131",
+          "description": "ECCV 2020 4,904 arXiv · Code ★4,132",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -482,7 +513,7 @@
         {
           "node_type": "item",
           "title": "Universal Transformers",
-          "description": "ICLR 2019 1,233 arXiv · Code ★17,473",
+          "description": "ICLR 2019 1,237 arXiv · Code ★17,473",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -509,7 +540,7 @@
         {
           "node_type": "item",
           "title": "Deep Equilibrium Models",
-          "description": "NeurIPS 2019 1,104 arXiv · Code ★815",
+          "description": "NeurIPS 2019 1,107 arXiv · Code ★815",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -530,7 +561,7 @@
         {
           "node_type": "item",
           "title": "🌟 Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach",
-          "description": "NeurIPS 2025 584 arXiv · Code ★998 · HF",
+          "description": "NeurIPS 2025 590 arXiv · Code ★998 · HF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -619,7 +650,7 @@
             "open_issues": 4,
             "owner": "dnhkng",
             "repo": "RYS",
-            "stars": 90,
+            "stars": 91,
             "topics": []
           },
           "first_seen": "2026-11-17T04:39:26.910Z"
@@ -650,7 +681,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T02:55:28.185Z",
+    "last_updated": "2026-11-24T06:11:44.651Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and selected technical blogs on Loop Models.",
@@ -658,11 +689,11 @@
       "id": 1219975226,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-11-23T02:50:17Z",
+      "last_commit": "2026-11-24T02:30:33Z",
       "open_issues": 0,
       "owner": "huskydoge",
       "repo": "Awesome-Loop-Models",
-      "stars": 492,
+      "stars": 498,
       "topics": [
         "attractors",
         "awesome-list",
@@ -674,7 +705,7 @@
         "research-tool"
       ]
     },
-    "original_repository_sha": "502b9d483ff221c0622aa43a1eff25d0e68ae98f",
+    "original_repository_sha": "ae941f64ba00bc5985d13a41aede56154160cc28",
     "enhanced_repository": "enhansome/enhansome-Awesome-Loop-Models",
     "enhanced_repository_description": null,
     "title": "Awesome Loop Models with stars"
