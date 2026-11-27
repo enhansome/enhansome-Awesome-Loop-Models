@@ -19,7 +19,7 @@
             "open_issues": 589,
             "owner": "tensorflow",
             "repo": "tensor2tensor",
-            "stars": 17473,
+            "stars": 17474,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -248,7 +248,7 @@
         {
           "node_type": "item",
           "title": "Hierarchical Reasoning Model",
-          "description": "2025 hierarchical arXiv · Code ★12,672",
+          "description": "2025 hierarchical arXiv · Code ★12,675",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -261,7 +261,7 @@
             "open_issues": 75,
             "owner": "sapientinc",
             "repo": "HRM",
-            "stars": 12672,
+            "stars": 12675,
             "topics": [
               "brain-inspired-ai",
               "deep-learning",
@@ -302,7 +302,7 @@
         {
           "node_type": "item",
           "title": "Less is More: Recursive Reasoning with Tiny Networks",
-          "description": "2025 hierarchical arXiv · Code ★6,546",
+          "description": "2025 hierarchical arXiv · Code ★6,543",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -349,7 +349,82 @@
       "items": [
         {
           "node_type": "item",
-          "title": "arXiv · Code ★32",
+          "title": "arXiv · Code ★6",
+          "description": "HF · Project Distill to Loop: Turning Pretrained Diffusion Transformers into Looped Models with Adjustable Depth §5.3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official Repo for Paper Distill to Loop: Turning Pretrained Diffusion Transformers into Looped Models with Adjustable Depth",
+            "homepage": null,
+            "id": 1468005175,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-25T20:06:22Z",
+            "open_issues": 1,
+            "owner": "WinterCCC",
+            "repo": "Distill-to-Loop",
+            "stars": 6,
+            "topics": []
+          },
+          "first_seen": "2026-11-27T04:21:12.924Z"
+        },
+        {
+          "node_type": "item",
+          "title": "arXiv · Code ★12",
+          "description": "Project LoopDVR: Looped Transformer for Efficient Dense Visual Recognition §9.2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Looped Transformer for Efficient Dense Visual Recognition",
+            "homepage": "https://siruuui.github.io/LoopDVR/",
+            "id": 1463843103,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-25T03:21:37Z",
+            "open_issues": 1,
+            "owner": "Intellindust-AI-Lab",
+            "repo": "LoopDVR",
+            "stars": 14,
+            "topics": [
+              "computer-vision",
+              "detr",
+              "edge-ai",
+              "instance-segmentation",
+              "loop-transformer",
+              "object-detection",
+              "pose-estimation",
+              "real-time-instance-segmentation",
+              "real-time-object-detection",
+              "real-time-pose-estimation",
+              "yolo"
+            ]
+          },
+          "first_seen": "2026-11-27T04:21:12.924Z"
+        },
+        {
+          "node_type": "item",
+          "title": "arXiv · Code",
+          "description": "How to build and train your recurrent-depth model: A fixed-point perspective §5.1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": "https://arxiv.org/abs/2611.31513",
+            "id": 1470332245,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-11-25T09:17:49Z",
+            "open_issues": 0,
+            "owner": "tmpethick",
+            "repo": "sparrow",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-11-27T04:21:12.924Z"
+        },
+        {
+          "node_type": "item",
+          "title": "arXiv · Code ★42",
           "description": "Project DyLoMo-DiT: Dynamic Looped Mixture-of-Experts Diffusion Transformers §4.6",
           "children": [],
           "repo_info": {
@@ -360,10 +435,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-26T04:03:46Z",
-            "open_issues": 0,
+            "open_issues": 3,
             "owner": "OneBoxCream",
             "repo": "DyLoMo-DiT",
-            "stars": 35,
+            "stars": 45,
             "topics": [
               "diffusion-models",
               "diffusion-transformer",
@@ -376,69 +451,6 @@
             ]
           },
           "first_seen": "2026-11-25T04:57:07.605Z"
-        },
-        {
-          "node_type": "item",
-          "title": "arXiv · Code ★52",
-          "description": "Unlocking the Power of Loops in Pretrained LLMs with Loop Residuals §5.3",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1468174985,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-11-24T06:15:14Z",
-            "open_issues": 2,
-            "owner": "NUS-HPC-AI-Lab",
-            "repo": "LoopRes",
-            "stars": 65,
-            "topics": []
-          },
-          "first_seen": "2026-11-25T04:57:07.605Z"
-        },
-        {
-          "node_type": "item",
-          "title": "arXiv · Code",
-          "description": "HF Loop-Count Schedules in Looped Transformers: An Empirical Study §4.5",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1470549966,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-11-24T17:42:18Z",
-            "open_issues": 0,
-            "owner": "kvoyager",
-            "repo": "gatedloop-transformer",
-            "stars": 0,
-            "topics": []
-          },
-          "first_seen": "2026-11-25T04:57:07.605Z"
-        },
-        {
-          "node_type": "item",
-          "title": "arXiv · Code ★1",
-          "description": "LoopSight: Looped Vision Transformers with Gated Prediction Memory §4.3",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1408961626,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-11-24T05:33:49Z",
-            "open_issues": 0,
-            "owner": "feufhd",
-            "repo": "LoopSight",
-            "stars": 1,
-            "topics": []
-          },
-          "first_seen": "2026-11-25T04:57:07.605Z"
         }
       ],
       "title": "🆕 Latest additions"
@@ -449,7 +461,7 @@
         {
           "node_type": "item",
           "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
-          "description": "ICLR 2020 8,757 arXiv · Code ★3,276",
+          "description": "ICLR 2020 8,789 arXiv · Code ★3,276",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -470,7 +482,7 @@
         {
           "node_type": "item",
           "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
-          "description": "ECCV 2020 4,967 arXiv · Code ★4,131",
+          "description": "ECCV 2020 4,979 arXiv · Code ★4,131",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -491,7 +503,7 @@
         {
           "node_type": "item",
           "title": "Universal Transformers",
-          "description": "ICLR 2019 1,257 arXiv · Code ★17,473",
+          "description": "ICLR 2019 1,271 arXiv · Code ★17,473",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -504,7 +516,7 @@
             "open_issues": 589,
             "owner": "tensorflow",
             "repo": "tensor2tensor",
-            "stars": 17473,
+            "stars": 17474,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -518,7 +530,7 @@
         {
           "node_type": "item",
           "title": "Deep Equilibrium Models",
-          "description": "NeurIPS 2019 1,112 arXiv · Code ★815",
+          "description": "NeurIPS 2019 1,119 arXiv · Code ★815",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -539,7 +551,7 @@
         {
           "node_type": "item",
           "title": "🌟 Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach",
-          "description": "NeurIPS 2025 623 arXiv · Code ★1,000 · HF",
+          "description": "NeurIPS 2025 626 arXiv · Code ★1,000 · HF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -659,7 +671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T04:14:03.798Z",
+    "last_updated": "2026-11-27T04:21:12.924Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers and selected technical blogs on Loop Models.",
@@ -667,11 +679,11 @@
       "id": 1219975226,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-11-26T02:07:26Z",
-      "open_issues": 1,
+      "last_commit": "2026-11-27T02:07:59Z",
+      "open_issues": 2,
       "owner": "huskydoge",
       "repo": "Awesome-Loop-Models",
-      "stars": 501,
+      "stars": 507,
       "topics": [
         "attractors",
         "awesome-list",
@@ -683,7 +695,7 @@
         "research-tool"
       ]
     },
-    "original_repository_sha": "0cf09a346e53389790566593ad6d97a8f7debed7",
+    "original_repository_sha": "e05b33f29c0255d8d7a7839e64c1c90c929898c5",
     "enhanced_repository": "enhansome/enhansome-Awesome-Loop-Models",
     "enhanced_repository_description": null,
     "title": "Awesome Loop Models with stars"
